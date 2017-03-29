@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="26.1056mm" height="5.99722mm"
+ viewBox="0 0 74 17"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>CBLSUB06</title>
+<desc>submarine cable</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" vector-effect="non-scaling-stroke" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#c64dbb" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M71.176,-0.28 L67.176,6.72 L73.176,9.72 L68.176,15.72"/>
+<path fill-rule="evenodd" d="M22.176,6.72 L27.176,3.72 L36.176,9.72 L41.176,6.72"/>
+<path fill-rule="evenodd" d="M0.176,6.72 L5.176,3.72 L14.176,9.72 L19.176,6.72"/>
+<path fill-rule="evenodd" d="M44.176,5.72 L49.176,2.72 L58.176,9.72 L63.176,5.72"/>
+</g>
+</g>
+</svg>

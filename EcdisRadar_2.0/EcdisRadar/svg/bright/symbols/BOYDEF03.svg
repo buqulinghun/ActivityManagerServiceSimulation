@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="8.46667mm" height="5.29167mm"
+ viewBox="0 0 24 15"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>BOYDEF03</title>
+<desc>default symbol for buoy, simplified</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" vector-effect="non-scaling-stroke" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#c64dbb" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M16.584,3.144 L16.584,2.144 L16.584,1.144 L17.584,1.144 L18.584,0.144 L19.584,0.144 L20.584,0.144 L21.584,1.144 L22.584,2.144 L23.584,3.144 L23.584,4.144 L22.584,5.144 L21.584,6.144 L20.584,7.144 L20.584,8.144 L19.584,8.144 L19.584,9.144 L19.584,10.144 L19.584,11.144"/>
+</g>
+
+<g fill="none" stroke="#c64dbb" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M18.584,14.144 L20.584,14.144"/>
+</g>
+
+<g fill="none" stroke="#88988b" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="#88988b" fill-opacity="1" stroke="#88988b" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M12.584,7.144 C12.584,10.4577 9.89771,13.144 6.584,13.144 C3.27029,13.144 0.584,10.4577 0.584,7.144 C0.584,3.83029 3.27029,1.144 6.584,1.144 C9.89771,1.144 12.584,3.83029 12.584,7.144 "/>
+</g>
+
+<g fill="none" stroke="#88988b" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="#88988b" fill-opacity="1" stroke="#88988b" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M6.584,7.144"/>
+</g>
+
+<g fill="none" stroke="#88988b" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M6.584,7.144"/>
+</g>
+
+<g fill="none" stroke="#070707" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M12.584,7.144 C12.584,10.4577 9.89771,13.144 6.584,13.144 C3.27029,13.144 0.584,10.4577 0.584,7.144 C0.584,3.83029 3.27029,1.144 6.584,1.144 C9.89771,1.144 12.584,3.83029 12.584,7.144 "/>
+</g>
+
+<g fill="#070707" fill-opacity="1" stroke="#070707" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d=""/>
+</g>
+
+<g fill="none" stroke="#070707" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="#070707" fill-opacity="1" stroke="#070707" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M6.584,7.144"/>
+</g>
+
+<g fill="none" stroke="#070707" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M6.584,7.144"/>
+</g>
+</g>
+</svg>

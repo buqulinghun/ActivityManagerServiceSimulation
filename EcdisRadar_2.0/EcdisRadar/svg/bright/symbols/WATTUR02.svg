@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="17.6389mm" height="3.88056mm"
+ viewBox="0 0 50 11"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>WATTUR02</title>
+<desc>overfalls, eddies and breakers</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" vector-effect="non-scaling-stroke" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#88988b" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M-0.304,9.752 L2.696,8.752 L6.696,6.752 L9.696,1.752 L12.696,-0.248 L16.696,0.752 L12.696,3.752 L12.696,6.752 L16.696,9.752 L19.696,8.752 L22.696,6.752 L25.696,1.752 L29.696,-0.248 L32.696,0.752 L29.696,3.752 L28.696,6.752 L32.696,9.752 L35.696,8.752 L38.696,6.752 L42.696,1.752 L45.696,0.752 L48.696,0.752 L45.696,4.752 L45.696,6.752 L48.696,9.752"/>
+</g>
+</g>
+</svg>

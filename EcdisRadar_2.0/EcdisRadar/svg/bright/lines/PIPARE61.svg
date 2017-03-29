@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="34.5722mm" height="2.82222mm"
+ viewBox="0 0 98 8"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>PIPARE61</title>
+<desc>boundary of a submarine pipeline area with generally non-dangerous contents</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" vector-effect="non-scaling-stroke" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#88988b" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M44.784,2.616 C44.784,4.27285 43.4409,5.616 41.784,5.616 C40.1271,5.616 38.784,4.27285 38.784,2.616 C38.784,0.959146 40.1271,-0.384 41.784,-0.384 C43.4409,-0.384 44.784,0.959146 44.784,2.616 "/>
+<path fill-rule="evenodd" d="M26.784,2.616 L38.784,2.616"/>
+<path fill-rule="evenodd" d="M-0.216,1.616 L18.784,1.616"/>
+<path fill-rule="evenodd" d="M77.784,1.616 L96.784,1.616"/>
+<path fill-rule="evenodd" d="M82.784,1.616 L87.784,6.616 L93.784,1.616"/>
+<path fill-rule="evenodd" d="M51.784,1.616 L70.784,1.616"/>
+<path fill-rule="evenodd" d="M55.784,1.616 L61.784,6.616 L66.784,1.616"/>
+<path fill-rule="evenodd" d="M3.784,1.616 L8.784,6.616 L14.784,1.616"/>
+</g>
+</g>
+</svg>

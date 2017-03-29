@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="2.46944mm" height="10.9361mm"
+ viewBox="0 0 7 31"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>LOCMAG01</title>
+<desc>cursor pick site for a magnetic anomaly at a point</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" vector-effect="non-scaling-stroke" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#c64dbb" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M6.04,21.208 L6.04,30.208"/>
+<path fill-rule="evenodd" d="M6.04,22.208 L6.04,0.208 L0.04,17.208 L1.04,17.208 L2.04,18.208 L3.04,18.208 L3.04,19.208 L4.04,19.208 L5.04,20.208 L5.04,21.208 L6.04,22.208"/>
+</g>
+</g>
+</svg>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="34.5722mm" height="5.99722mm"
+ viewBox="0 0 98 17"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>ACHARE51</title>
+<desc>boundary of an anchorage area</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" vector-effect="non-scaling-stroke" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#c64dbb" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M35.528,0.144 L35.528,16.144"/>
+<path fill-rule="evenodd" d="M30.528,4.144 L40.528,4.144"/>
+<path fill-rule="evenodd" d="M29.528,12.144 L32.528,16.144 L38.528,16.144 L42.528,13.144"/>
+<path fill-rule="evenodd" d="M-0.472,8.144 L18.528,8.144"/>
+<path fill-rule="evenodd" d="M77.528,8.144 L96.528,8.144"/>
+<path fill-rule="evenodd" d="M81.528,8.144 L86.528,13.144 L92.528,7.144"/>
+<path fill-rule="evenodd" d="M51.528,8.144 L70.528,8.144"/>
+<path fill-rule="evenodd" d="M56.528,7.144 L61.528,13.144 L66.528,7.144"/>
+<path fill-rule="evenodd" d="M2.528,7.144 L7.528,13.144 L12.528,8.144"/>
+</g>
+</g>
+</svg>

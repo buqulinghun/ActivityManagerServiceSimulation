@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="7.76111mm" height="5.29167mm"
+ viewBox="0 0 22 15"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>SISTAT02</title>
+<desc>signal station</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" vector-effect="non-scaling-stroke" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#d8f4e1" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="#d8f4e1" fill-opacity="1" stroke="#d8f4e1" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M1.92,2.152 L20.92,2.152 L20.92,14.152 L1.92,14.152 L1.92,2.152"/>
+</g>
+
+<g fill="none" stroke="#d8f4e1" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M1.92,2.152"/>
+</g>
+
+<g fill="none" stroke="#d4b1dd" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M20.92,2.152 L20.92,14.152 L1.92,14.152 L1.92,2.152"/>
+<path fill-rule="evenodd" d="M8.92,5.152 L7.92,4.152 L5.92,4.152 L5.92,5.152 L5.92,6.152 L5.92,7.152 L7.92,7.152 L8.92,8.152 L8.92,9.152 L7.92,10.152 L5.92,10.152 L4.92,9.152"/>
+<path fill-rule="evenodd" d="M16.92,5.152 L15.92,4.152 L13.92,4.152 L13.92,5.152 L13.92,6.152 L13.92,7.152 L15.92,7.152 L16.92,8.152 L16.92,9.152 L15.92,10.152 L13.92,10.152 L12.92,9.152"/>
+<path fill-rule="evenodd" d="M1.92,2.152 L20.92,2.152"/>
+</g>
+
+<g fill="none" stroke="#937427" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="#937427" fill-opacity="1" stroke="#937427" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d=""/>
+</g>
+
+<g fill="none" stroke="#937427" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="#937427" fill-opacity="1" stroke="#937427" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M0.92,1.152"/>
+</g>
+
+<g fill="none" stroke="#937427" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M0.92,1.152"/>
+</g>
+</g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="23.2833mm" height="3.88056mm"
+ viewBox="0 0 66 11"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>RECTRC10</title>
+<desc>non-regulated recommended two-way track, based on fixed-marks</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" vector-effect="non-scaling-stroke" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#88988b" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M34.704,10.032 L28.704,5.032 L34.704,0.032"/>
+<path fill-rule="evenodd" d="M-0.296,5.032 L64.704,5.032"/>
+<path fill-rule="evenodd" d="M45.704,10.032 L51.704,5.032 L45.704,0.032"/>
+</g>
+</g>
+</svg>

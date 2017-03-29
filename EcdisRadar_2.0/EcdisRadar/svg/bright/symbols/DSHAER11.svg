@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="4.23333mm" height="6.35mm"
+ viewBox="0 0 12 18"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>DSHAER11</title>
+<desc>conspicuous dish aerial</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" vector-effect="non-scaling-stroke" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#070707" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M6.952,16.352 C6.952,16.9043 6.50428,17.352 5.952,17.352 C5.39972,17.352 4.952,16.9043 4.952,16.352 C4.952,15.7997 5.39972,15.352 5.952,15.352 C6.50428,15.352 6.952,15.7997 6.952,16.352 M-0.048,16.352 L3.952,16.352 M6.952,16.352 L9.952,16.352 M2.952,0.352 L10.952,5.352 M6.952,3.352 L7.952,1.352 M4.952,7.352"/>
+<path fill-rule="evenodd" d="M4.952,7.352 L2.952,16.352 M5.952,8.352 L7.952,16.352 M2.952,0.352 L1.952,1.352 L1.952,3.352 L1.952,5.352 L2.952,6.352 L4.952,7.352 L5.952,8.352 L7.952,8.352 L8.952,8.352"/>
+<path fill-rule="evenodd" d="M8.952,8.352 L10.952,7.352 L10.952,5.352"/>
+</g>
+</g>
+</svg>

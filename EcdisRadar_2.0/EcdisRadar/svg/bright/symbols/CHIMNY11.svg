@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="5.64444mm" height="8.11389mm"
+ viewBox="0 0 16 23"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>CHIMNY11</title>
+<desc>conspicuous chimney</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" vector-effect="non-scaling-stroke" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#070707" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M6.464,20.352 C6.464,20.9043 6.01628,21.352 5.464,21.352 C4.91172,21.352 4.464,20.9043 4.464,20.352 C4.464,19.7997 4.91172,19.352 5.464,19.352 C6.01628,19.352 6.464,19.7997 6.464,20.352 M7.464,20.352 L11.464,20.352 M2.464,20.352 L4.464,5.352 L6.464,5.352 L8.464,20.352 M0.464,20.352 L3.464,20.352 M4.464,5.352"/>
+<path fill-rule="evenodd" d="M4.464,5.352 L3.464,3.352 L4.464,2.352 L4.464,1.352 L6.464,0.352 L7.464,0.352 L8.464,1.352 L9.464,0.352 L11.464,0.352 L13.464,0.352 L14.464,0.352 L15.464,1.352"/>
+<path fill-rule="evenodd" d="M15.464,1.352 L15.464,2.352 L13.464,3.352 L11.464,3.352 L11.464,4.352 L9.464,5.352 L6.464,5.352"/>
+</g>
+</g>
+</svg>

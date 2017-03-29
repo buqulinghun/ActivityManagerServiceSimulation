@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="7.40833mm" height="16.2278mm"
+ viewBox="0 0 21 46"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>TWRTPT52</title>
+<desc>reciprocal traffic directions in a two-way route of a traffic separation scheme</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" vector-effect="non-scaling-stroke" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#c64dbb" stroke-opacity="1" stroke-width="3" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M6.368,5.384 L10.368,0.384 L14.368,5.384"/>
+<path fill-rule="evenodd" d="M3.368,9.384 L0.368,12.384 L5.368,12.384"/>
+<path fill-rule="evenodd" d="M14.368,12.384 L19.368,12.384 L16.368,8.384"/>
+<path fill-rule="evenodd" d="M5.368,18.384 L5.368,25.384"/>
+<path fill-rule="evenodd" d="M14.368,18.384 L14.368,25.384"/>
+<path fill-rule="evenodd" d="M6.368,39.384 L10.368,45.384 L14.368,39.384"/>
+<path fill-rule="evenodd" d="M5.368,31.384 L0.368,31.384 L3.368,35.384"/>
+<path fill-rule="evenodd" d="M14.368,31.384 L19.368,31.384 L16.368,36.384"/>
+</g>
+</g>
+</svg>

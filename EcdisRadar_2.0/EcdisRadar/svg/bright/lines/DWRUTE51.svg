@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="34.5722mm" height="3.88056mm"
+ viewBox="0 0 98 11"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>DWRUTE51</title>
+<desc>boundary of a deep water route</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" vector-effect="non-scaling-stroke" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#c64dbb" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M-0.216,2.544 L18.784,2.544"/>
+<path fill-rule="evenodd" d="M77.784,2.544 L96.784,2.544"/>
+<path fill-rule="evenodd" d="M82.784,2.544 L87.784,7.544 L93.784,2.544"/>
+<path fill-rule="evenodd" d="M51.784,2.544 L70.784,2.544"/>
+<path fill-rule="evenodd" d="M55.784,2.544 L61.784,7.544 L66.784,2.544"/>
+<path fill-rule="evenodd" d="M3.784,2.544 L8.784,7.544 L14.784,2.544"/>
+<path fill-rule="evenodd" d="M25.784,-0.456 L25.784,9.544 L28.784,9.544 L31.784,8.544 L31.784,1.544 L28.784,-0.456 L25.784,-0.456"/>
+<path fill-rule="evenodd" d="M35.784,-0.456 L38.784,9.544 L40.784,-0.456 L43.784,9.544 L45.784,-0.456"/>
+</g>
+</g>
+</svg>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="12.7mm" height="5.29167mm"
+ viewBox="0 0 36 15"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>FSHGRD01</title>
+<desc>fishing ground</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" vector-effect="non-scaling-stroke" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#88988b" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M5.776,7.944 L0.776,1.944"/>
+<path fill-rule="evenodd" d="M5.776,7.944 L-0.224,12.944"/>
+<path fill-rule="evenodd" d="M5.776,7.944 L7.776,4.944 L11.776,2.944 L15.776,0.944 L19.776,-0.056 L23.776,-0.056 L27.776,0.944 L31.776,2.944 L34.776,4.944 L35.776,5.944"/>
+<path fill-rule="evenodd" d="M5.776,6.944 L9.776,10.944 L13.776,12.944 L18.776,13.944 L22.776,14.944 L26.776,13.944 L29.776,12.944 L32.776,9.944 L34.776,6.944"/>
+<path fill-rule="evenodd" d="M25.776,0.944 L24.776,4.944 L24.776,9.944 L26.776,13.944"/>
+<path fill-rule="evenodd" d="M35.776,5.944 L34.776,6.944"/>
+</g>
+</g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="4.93889mm" height="8.11389mm"
+ viewBox="0 0 14 23"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>DAYSQR21</title>
+<desc>square or rectangular daymark, paper chart</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" vector-effect="non-scaling-stroke" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#c64dbb" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M0.072,0.112 L0.072,13.112 L13.072,13.112 L13.072,0.112 L0.072,0.112"/>
+<path fill-rule="evenodd" d="M7.072,13.112 L7.072,18.112"/>
+<path fill-rule="evenodd" d="M9.072,20.112 C9.072,21.2166 8.17657,22.112 7.072,22.112 C5.96743,22.112 5.072,21.2166 5.072,20.112 C5.072,19.0074 5.96743,18.112 7.072,18.112 C8.17657,18.112 9.072,19.0074 9.072,20.112 "/>
+<path fill-rule="evenodd" d="M2.072,20.112 L4.072,20.112"/>
+<path fill-rule="evenodd" d="M9.072,20.112 L11.072,20.112"/>
+</g>
+</g>
+</svg>

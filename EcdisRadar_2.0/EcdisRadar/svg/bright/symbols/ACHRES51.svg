@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="14.1111mm" height="15.1694mm"
+ viewBox="0 0 40 43"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>ACHRES51</title>
+<desc>area where anchoring is prohibited or restricted</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" vector-effect="non-scaling-stroke" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#d4b1dd" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M18.768,0.568 L18.768,10.568 L8.768,10.568 L8.768,14.568 L18.768,14.568 L18.768,36.568 L11.768,34.568 L5.768,30.568 L-0.232,30.568 L8.768,36.568 L20.768,41.568 L31.768,36.568 L39.768,30.568 L34.768,30.568 L27.768,34.568 L20.768,36.568 L20.768,14.568 L31.768,14.568 L31.768,10.568 L20.768,10.568 L20.768,0.568 L18.768,0.568"/>
+</g>
+
+<g fill="none" stroke="#d4b1dd" stroke-opacity="1" stroke-width="3" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M34.768,6.568 L2.768,38.568"/>
+</g>
+</g>
+</svg>

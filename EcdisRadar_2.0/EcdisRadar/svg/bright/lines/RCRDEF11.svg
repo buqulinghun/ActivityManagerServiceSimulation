@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="26.8111mm" height="6.35mm"
+ viewBox="0 0 76 18"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>RCRDEF11</title>
+<desc>regulated recommended route centreline, details not defined</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" vector-effect="non-scaling-stroke" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#c64dbb" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M16.344,8.568 L26.344,8.568"/>
+<path fill-rule="evenodd" d="M48.344,8.568 L58.344,8.568"/>
+<path fill-rule="evenodd" d="M64.344,8.568 L74.344,8.568"/>
+<path fill-rule="evenodd" d="M0.344,8.568 L10.344,8.568"/>
+<path fill-rule="evenodd" d="M4.344,-0.432 L-0.656,2.568 L5.344,5.568"/>
+<path fill-rule="evenodd" d="M69.344,11.568 L74.344,13.568 L70.344,16.568"/>
+<path fill-rule="evenodd" d="M48.344,13.568 L55.344,13.568"/>
+<path fill-rule="evenodd" d="M58.344,13.568 L64.344,13.568"/>
+<path fill-rule="evenodd" d="M67.344,13.568 L74.344,13.568"/>
+<path fill-rule="evenodd" d="M0.344,2.568 L6.344,2.568"/>
+<path fill-rule="evenodd" d="M9.344,2.568 L16.344,2.568"/>
+<path fill-rule="evenodd" d="M19.344,2.568 L25.344,2.568"/>
+<path fill-rule="evenodd" d="M32.344,2.568 L33.344,1.568 L33.344,0.568 L34.344,0.568 L35.344,-0.432 L36.344,0.568 L37.344,0.568 L38.344,1.568 L39.344,2.568 L39.344,3.568 L39.344,4.568 L38.344,5.568 L37.344,6.568 L36.344,7.568 L36.344,8.568 L35.344,8.568 L35.344,9.568 L35.344,10.568 L35.344,11.568"/>
+<path fill-rule="evenodd" d="M35.344,13.568 L36.344,13.568"/>
+</g>
+</g>
+</svg>

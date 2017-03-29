@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="15.875mm" height="16.2278mm"
+ viewBox="0 0 45 46"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>TWRDEF51</title>
+<desc>two way route of a traffic separation scheme, with the direction not defined in the data</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" vector-effect="non-scaling-stroke" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#c64dbb" stroke-opacity="1" stroke-width="3" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M18.464,5.384 L22.464,0.384 L26.464,5.384"/>
+<path fill-rule="evenodd" d="M15.464,9.384 L12.464,12.384 L17.464,12.384"/>
+<path fill-rule="evenodd" d="M26.464,12.384 L31.464,12.384 L28.464,8.384"/>
+<path fill-rule="evenodd" d="M17.464,18.384 L17.464,25.384"/>
+<path fill-rule="evenodd" d="M26.464,18.384 L26.464,25.384"/>
+<path fill-rule="evenodd" d="M18.464,39.384 L22.464,45.384 L26.464,39.384"/>
+<path fill-rule="evenodd" d="M17.464,31.384 L12.464,31.384 L15.464,35.384"/>
+<path fill-rule="evenodd" d="M26.464,31.384 L31.464,31.384 L28.464,36.384"/>
+</g>
+
+<g fill="none" stroke="#c64dbb" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M0.464,18.384 L0.464,17.384 L1.464,16.384 L1.464,15.384 L2.464,15.384 L3.464,15.384 L4.464,15.384 L5.464,15.384 L6.464,16.384 L6.464,17.384 L7.464,18.384 L6.464,19.384 L6.464,20.384 L5.464,21.384 L4.464,22.384 L3.464,23.384 L3.464,24.384 L3.464,25.384 L3.464,26.384"/>
+</g>
+
+<g fill="none" stroke="#c64dbb" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M2.464,29.384 L4.464,29.384"/>
+</g>
+
+<g fill="none" stroke="#c64dbb" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M36.464,18.384 L37.464,17.384 L37.464,16.384 L38.464,15.384 L39.464,14.384 L40.464,15.384 L41.464,15.384 L42.464,15.384 L42.464,16.384 L43.464,17.384 L43.464,18.384 L43.464,19.384 L42.464,20.384 L41.464,21.384 L40.464,22.384 L40.464,23.384 L40.464,24.384 L40.464,25.384 L40.464,26.384"/>
+</g>
+
+<g fill="none" stroke="#c64dbb" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M39.464,29.384 L41.464,29.384"/>
+</g>
+</g>
+</svg>

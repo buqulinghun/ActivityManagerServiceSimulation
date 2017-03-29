@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="10.2306mm" height="4.23333mm"
+ viewBox="0 0 29 12"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>TIDEHT01</title>
+<desc>point for which tide height information is available</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" vector-effect="non-scaling-stroke" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#88988b" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M-0.312,5.048 L28.688,5.048"/>
+<path fill-rule="evenodd" d="M2.688,5.048 L2.688,4.048 L2.688,3.048 L3.688,2.048 L4.688,1.048 L5.688,1.048 L6.688,0.048 L7.688,0.048 L8.688,0.048 L9.688,1.048 L10.688,1.048 L11.688,2.048 L12.688,3.048 L12.688,4.048 L12.688,5.048 L12.688,6.048 L12.688,7.048 L13.688,8.048 L13.688,9.048 L14.688,10.048 L15.688,10.048 L16.688,11.048 L17.688,11.048 L18.688,11.048 L19.688,11.048 L20.688,10.048 L21.688,10.048 L22.688,9.048 L22.688,8.048 L23.688,7.048 L23.688,6.048 L23.688,5.048"/>
+</g>
+</g>
+</svg>

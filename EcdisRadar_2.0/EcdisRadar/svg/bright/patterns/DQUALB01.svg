@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="19.4028mm" height="13.7583mm"
+ viewBox="0 0 55 39"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>DQUALB01</title>
+<desc>pattern of symbols for a chart with 50m accuracy from standard survey based on lines of continuous soundings</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" vector-effect="non-scaling-stroke" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#88988b" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M38.08,6.928 L48.08,6.928"/>
+<path fill-rule="evenodd" d="M46.08,2.928 L40.08,9.928"/>
+<path fill-rule="evenodd" d="M40.08,2.928 L46.08,9.928"/>
+<path fill-rule="evenodd" d="M22.08,6.928 L31.08,6.928"/>
+<path fill-rule="evenodd" d="M29.08,2.928 L24.08,9.928"/>
+<path fill-rule="evenodd" d="M24.08,2.928 L29.08,9.928"/>
+<path fill-rule="evenodd" d="M5.08,6.928 L14.08,6.928"/>
+<path fill-rule="evenodd" d="M13.08,2.928 L7.08,10.928"/>
+<path fill-rule="evenodd" d="M7.08,2.928 L13.08,10.928"/>
+<path fill-rule="evenodd" d="M22.08,18.928 L31.08,18.928"/>
+<path fill-rule="evenodd" d="M29.08,14.928 L24.08,22.928"/>
+<path fill-rule="evenodd" d="M24.08,14.928 L29.08,22.928"/>
+<path fill-rule="evenodd" d="M1.08,5.928 L0.08,3.928 L0.08,1.928 L1.08,0.928 L2.08,-0.072 L3.08,-0.072 L49.08,-0.072 L51.08,-0.072 L53.08,0.928 L54.08,1.928 L54.08,2.928 L54.08,4.928 L53.08,5.928 L31.08,34.928 L31.08,35.928 L30.08,36.928 L29.08,36.928 L28.08,37.928 L27.08,37.928 L26.08,37.928 L25.08,36.928 L24.08,36.928 L23.08,35.928 L23.08,34.928 L1.08,5.928"/>
+</g>
+</g>
+</svg>

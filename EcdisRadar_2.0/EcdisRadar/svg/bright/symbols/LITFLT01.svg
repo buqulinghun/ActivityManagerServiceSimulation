@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="10.5833mm" height="3.88056mm"
+ viewBox="0 0 30 11"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>LITFLT01</title>
+<desc>light float, paper-chart</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" vector-effect="non-scaling-stroke" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#070707" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M17.04,8.64 C17.04,9.74457 16.1446,10.64 15.04,10.64 C13.9354,10.64 13.04,9.74457 13.04,8.64 C13.04,7.53543 13.9354,6.64 15.04,6.64 C16.1446,6.64 17.04,7.53543 17.04,8.64 M0.04,8.64 L11.04,8.64 M5.04,8.64 L2.04,1.64 M24.04,8.64 L27.04,1.64 M10.04,3.64 L11.04,0.64"/>
+<path fill-rule="evenodd" d="M11.04,0.64 L18.04,0.64 L19.04,3.64 M2.04,1.64 L8.04,3.64 L21.04,3.64 L27.04,1.64 M18.04,8.64 L29.04,8.64"/>
+</g>
+</g>
+</svg>

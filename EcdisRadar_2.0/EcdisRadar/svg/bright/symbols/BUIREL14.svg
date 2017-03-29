@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="6.70278mm" height="3.52778mm"
+ viewBox="0 0 19 10"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>BUIREL14</title>
+<desc>conspicuous religious building, non-Christian</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" vector-effect="non-scaling-stroke" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#070707" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M-0.144,0.344 L18.856,9.344"/>
+<path fill-rule="evenodd" d="M-0.144,9.344 L18.856,0.344"/>
+<path fill-rule="evenodd" d="M2.856,1.344 L15.856,1.344 L15.856,8.344 L2.856,8.344 L2.856,1.344"/>
+</g>
+</g>
+</svg>

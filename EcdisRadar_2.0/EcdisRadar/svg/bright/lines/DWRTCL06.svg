@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="29.2806mm" height="5.64444mm"
+ viewBox="0 0 83 16"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>DWRTCL06</title>
+<desc>two-way deep water route centreline, based on fixed marks</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" vector-effect="non-scaling-stroke" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#c64dbb" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M61.248,0 L61.248,10 L65.248,10 L68.248,8 L68.248,2 L64.248,0 L61.248,0"/>
+<path fill-rule="evenodd" d="M72.248,0 L74.248,10 L76.248,0 L79.248,10 L81.248,0"/>
+<path fill-rule="evenodd" d="M64.248,14 L77.248,14"/>
+<path fill-rule="evenodd" d="M0.248,5 L55.248,5"/>
+<path fill-rule="evenodd" d="M22.248,10 L16.248,5 L22.248,0"/>
+<path fill-rule="evenodd" d="M32.248,10 L39.248,5 L32.248,0"/>
+</g>
+</g>
+</svg>

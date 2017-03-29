@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="7.05556mm" height="5.99722mm"
+ viewBox="0 0 20 17"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>CRANES01</title>
+<desc>cranes</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" vector-effect="non-scaling-stroke" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#937427" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M9.64,15.04 C9.64,15.5923 9.19228,16.04 8.64,16.04 C8.08772,16.04 7.64,15.5923 7.64,15.04 C7.64,14.4877 8.08772,14.04 8.64,14.04 C9.19228,14.04 9.64,14.4877 9.64,15.04 M1.64,15.04 L6.64,15.04 M9.64,15.04 L14.64,15.04 M6.64,15.04 L6.64,2.04 M9.64,15.04 L9.64,2.04 M0.64,0.04"/>
+<path fill-rule="evenodd" d="M0.64,0.04 L19.64,0.04 M0.64,0.04 L0.64,5.04 L3.64,5.04 L3.64,2.04"/>
+</g>
+</g>
+</svg>

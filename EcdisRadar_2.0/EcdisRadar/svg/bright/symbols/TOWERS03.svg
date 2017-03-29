@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="4.23333mm" height="7.40833mm"
+ viewBox="0 0 12 21"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>TOWERS03</title>
+<desc>conspicuous tower</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" vector-effect="non-scaling-stroke" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#070707" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M7.24,19.168 C7.24,19.7203 6.79228,20.168 6.24,20.168 C5.68772,20.168 5.24,19.7203 5.24,19.168 C5.24,18.6157 5.68772,18.168 6.24,18.168 C6.79228,18.168 7.24,18.6157 7.24,19.168 M2.24,19.168 L4.24,0.168 L7.24,0.168 L9.24,19.168 M7.24,19.168 L11.24,19.168 M4.24,19.168 L0.24,19.168 M3.24,3.168"/>
+<path fill-rule="evenodd" d="M3.24,3.168 L7.24,3.168"/>
+</g>
+</g>
+</svg>

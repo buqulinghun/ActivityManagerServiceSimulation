@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="7.40833mm" height="6.70278mm"
+ viewBox="0 0 21 19"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>BOYMOR03</title>
+<desc>mooring buoy, can shape, paper-chart</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" vector-effect="non-scaling-stroke" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#070707" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M11.76,16.352 C11.76,17.4566 10.8646,18.352 9.76,18.352 C8.65543,18.352 7.76,17.4566 7.76,16.352 C7.76,15.2474 8.65543,14.352 9.76,14.352 C10.8646,14.352 11.76,15.2474 11.76,16.352 M13.76,2.352 C13.76,3.45657 12.8646,4.352 11.76,4.352 C10.6554,4.352 9.76,3.45657 9.76,2.352 C9.76,1.24743 10.6554,0.352 11.76,0.352 C12.8646,0.352 13.76,1.24743 13.76,2.352 M-0.24,16.352 L6.76,16.352 M10.76,16.352 L18.76,16.352 M1.76,16.352 L4.76,5.352 L19.76,5.352"/>
+<path fill-rule="evenodd" d="M19.76,5.352 L16.76,16.352"/>
+</g>
+</g>
+</svg>

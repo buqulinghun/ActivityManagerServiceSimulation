@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="11.6417mm" height="11.6417mm"
+ viewBox="0 0 33 33"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>OWNSHP01</title>
+<desc>own ship symbol, constant size</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" vector-effect="non-scaling-stroke" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#070707" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M31.12,16.352 C31.12,24.6363 24.4043,31.352 16.12,31.352 C7.83573,31.352 1.12,24.6363 1.12,16.352 C1.12,8.06773 7.83573,1.352 16.12,1.352 C24.4043,1.352 31.12,8.06773 31.12,16.352 "/>
+<path fill-rule="evenodd" d="M24.12,16.352 C24.12,20.7703 20.5383,24.352 16.12,24.352 C11.7017,24.352 8.12,20.7703 8.12,16.352 C8.12,11.9337 11.7017,8.352 16.12,8.352 C20.5383,8.352 24.12,11.9337 24.12,16.352 "/>
+</g>
+</g>
+</svg>

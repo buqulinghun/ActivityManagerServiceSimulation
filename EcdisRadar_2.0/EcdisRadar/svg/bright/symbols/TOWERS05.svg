@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="3.88056mm" height="8.81944mm"
+ viewBox="0 0 11 25"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>TOWERS05</title>
+<desc>radio, television tower</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" vector-effect="non-scaling-stroke" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#937427" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M6.04,22.84 C6.04,23.3923 5.59228,23.84 5.04,23.84 C4.48772,23.84 4.04,23.3923 4.04,22.84 C4.04,22.2877 4.48772,21.84 5.04,21.84 C5.59228,21.84 6.04,22.2877 6.04,22.84 "/>
+<path fill-rule="evenodd" d="M2.04,22.84 L3.04,6.84 L7.04,6.84 L8.04,22.84"/>
+<path fill-rule="evenodd" d="M3.04,9.84 L7.04,9.84"/>
+<path fill-rule="evenodd" d="M0.04,22.84 L3.04,22.84"/>
+<path fill-rule="evenodd" d="M7.04,22.84 L10.04,22.84"/>
+<path fill-rule="evenodd" d="M8.04,-0.16 L10.04,1.84 L10.04,6.84"/>
+<path fill-rule="evenodd" d="M2.04,-0.16 L0.04,1.84 L0.04,6.84"/>
+</g>
+</g>
+</svg>

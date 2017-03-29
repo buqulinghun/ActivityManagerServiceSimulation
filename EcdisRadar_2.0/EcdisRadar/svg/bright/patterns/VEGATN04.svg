@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="4.93889mm" height="3.88056mm"
+ viewBox="0 0 14 11"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>VEGATN04</title>
+<desc>pattern of symbols for mangroves</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" vector-effect="non-scaling-stroke" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#937427" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M156.72,4.92 C156.72,87.7627 89.5627,154.92 6.72,154.92 C-76.1227,154.92 -143.28,87.7627 -143.28,4.92 C-143.28,-77.9227 -76.1227,-145.08 6.72,-145.08 C89.5627,-145.08 156.72,-77.9227 156.72,4.92 "/>
+<path fill-rule="evenodd" d="M-0.28,9.92 L12.72,9.92"/>
+<path fill-rule="evenodd" d="M6.72,8.92 L6.72,3.92"/>
+</g>
+</g>
+</svg>

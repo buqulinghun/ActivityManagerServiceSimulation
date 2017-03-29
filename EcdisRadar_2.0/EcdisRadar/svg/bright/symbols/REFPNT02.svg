@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="11.6417mm" height="11.6417mm"
+ viewBox="0 0 33 33"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>REFPNT02</title>
+<desc>reference point, 'ghost cursor' (user interface)</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" vector-effect="non-scaling-stroke" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#e67938" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M0.04,12.84 L13.04,12.84 L13.04,-0.16 M0.04,19.84 L13.04,19.84 L13.04,31.84 M19.04,-0.16 L19.04,12.84 L32.04,12.84"/>
+<path fill-rule="evenodd" d="M32.04,19.84 L19.04,19.84 L19.04,31.84"/>
+</g>
+</g>
+</svg>

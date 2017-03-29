@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="4.93889mm" height="4.23333mm"
+ viewBox="0 0 14 12"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>UWTROC04</title>
+<desc>rock which covers and uncovers or is awash at low water</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" vector-effect="non-scaling-stroke" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#070707" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M13.136,5.888 L0.136,5.888"/>
+<path fill-rule="evenodd" d="M10.136,-0.112 L3.136,10.888"/>
+<path fill-rule="evenodd" d="M10.136,9.888 L2.136,-0.112"/>
+</g>
+</g>
+</svg>

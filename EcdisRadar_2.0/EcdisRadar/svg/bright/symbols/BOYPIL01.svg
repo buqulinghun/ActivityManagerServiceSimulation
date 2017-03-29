@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="7.05556mm" height="5.99722mm"
+ viewBox="0 0 20 17"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>BOYPIL01</title>
+<desc>pillar buoy, paper-chart</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" vector-effect="non-scaling-stroke" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#070707" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M11.464,14.464 C11.464,15.0163 11.0163,15.464 10.464,15.464 C9.91172,15.464 9.464,15.0163 9.464,14.464 C9.464,13.9117 9.91172,13.464 10.464,13.464 C11.0163,13.464 11.464,13.9117 11.464,14.464 M0.464,14.464 L8.464,14.464 M11.464,14.464 L19.464,14.464 M2.464,14.464 L9.464,6.464 L11.464,0.464 L14.464,0.464 L14.464,7.464"/>
+<path fill-rule="evenodd" d="M14.464,7.464 L17.464,14.464"/>
+</g>
+</g>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="5.99722mm" height="5.29167mm"
+ viewBox="0 0 17 15"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>DOMES001</title>
+<desc>dome</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" vector-effect="non-scaling-stroke" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#937427" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M8.704,11.84 C8.704,12.3923 8.25628,12.84 7.704,12.84 C7.15172,12.84 6.704,12.3923 6.704,11.84 C6.704,11.2877 7.15172,10.84 7.704,10.84 C8.25628,10.84 8.704,11.2877 8.704,11.84 "/>
+<path fill-rule="evenodd" d="M6.704,11.84 L1.704,11.84"/>
+<path fill-rule="evenodd" d="M1.704,11.84 L0.704,11.84 L0.704,10.84 L0.704,9.84 L-0.296,8.84 L-0.296,6.84 L0.704,5.84 L0.704,3.84 L1.704,3.84 L2.704,2.84 L3.704,1.84 L4.704,0.84 L5.704,0.84 L6.704,-0.16 L8.704,-0.16 L9.704,0.84 L11.704,0.84 L12.704,1.84 L14.704,2.84 L14.704,3.84 L15.704,5.84 L15.704,6.84 L16.704,8.84 L15.704,10.84 L15.704,11.84 L14.704,11.84"/>
+<path fill-rule="evenodd" d="M9.704,11.84 L14.704,11.84"/>
+</g>
+</g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="6.70278mm" height="5.99722mm"
+ viewBox="0 0 19 17"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>BOYSPH01</title>
+<desc>spherical buoy, paper-chart</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" vector-effect="non-scaling-stroke" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#070707" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M10.048,14.656 C10.048,15.2083 9.60028,15.656 9.048,15.656 C8.49572,15.656 8.048,15.2083 8.048,14.656 C8.048,14.1037 8.49572,13.656 9.048,13.656 C9.60028,13.656 10.048,14.1037 10.048,14.656 M11.048,14.656 L18.048,14.656 M2.048,14.656 L1.048,11.656 L1.048,10.656 L1.048,8.656 L1.048,6.656 L2.048,4.656 L3.048,3.656"/>
+<path fill-rule="evenodd" d="M3.048,3.656 L4.048,1.656 L5.048,0.656 L7.048,0.656 L8.048,-0.344 L10.048,-0.344 L12.048,0.656 L14.048,1.656 L15.048,2.656 L16.048,3.656 L17.048,5.656 L18.048,6.656"/>
+<path fill-rule="evenodd" d="M18.048,6.656 L18.048,8.656 L18.048,11.656 L17.048,12.656 L17.048,14.656 M0.048,14.656 L7.048,14.656"/>
+</g>
+</g>
+</svg>

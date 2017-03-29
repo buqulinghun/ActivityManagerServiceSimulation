@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="8.11389mm" height="8.11389mm"
+ viewBox="0 0 23 23"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>QUARRY01</title>
+<desc>quarry</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" vector-effect="non-scaling-stroke" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#937427" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="#937427" fill-opacity="1" stroke="#937427" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M8.904,6.696 L3.904,11.696 L2.904,10.696 L2.904,7.696 L5.904,4.696 L8.904,6.696"/>
+</g>
+
+<g fill="none" stroke="#937427" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M8.904,6.696"/>
+</g>
+
+<g fill="#937427" fill-opacity="1" stroke="#937427" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M13.904,6.696 L16.904,4.696 L19.904,7.696 L19.904,10.696 L18.904,11.696 L13.904,6.696"/>
+</g>
+
+<g fill="none" stroke="#937427" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M13.904,6.696"/>
+</g>
+
+<g fill="none" stroke="#937427" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M6.904,8.696 L15.904,17.696"/>
+<path fill-rule="evenodd" d="M15.904,8.696 L6.904,17.696"/>
+</g>
+
+<g fill="none" stroke="#937427" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M5.904,4.696 L8.904,6.696 L3.904,11.696 L2.904,10.696 L2.904,7.696 L5.904,4.696"/>
+<path fill-rule="evenodd" d="M16.904,4.696 L19.904,7.696 L19.904,10.696 L18.904,11.696 L13.904,6.696 L16.904,4.696"/>
+<path fill-rule="evenodd" d="M20.904,10.696 C20.904,16.2188 16.4268,20.696 10.904,20.696 C5.38115,20.696 0.904,16.2188 0.904,10.696 C0.904,5.17315 5.38115,0.696 10.904,0.696 C16.4268,0.696 20.904,5.17315 20.904,10.696 "/>
+</g>
+</g>
+</svg>

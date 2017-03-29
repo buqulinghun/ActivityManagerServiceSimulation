@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="10.2306mm" height="5.99722mm"
+ viewBox="0 0 29 17"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>BOYINB01</title>
+<desc>installation buoy, paper-chart</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" vector-effect="non-scaling-stroke" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#070707" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M16.368,14.528 C16.368,15.6326 15.4726,16.528 14.368,16.528 C13.2634,16.528 12.368,15.6326 12.368,14.528 C12.368,13.4234 13.2634,12.528 14.368,12.528 C15.4726,12.528 16.368,13.4234 16.368,14.528 M16.368,2.528 C16.368,3.63257 15.4726,4.528 14.368,4.528 C13.2634,4.528 12.368,3.63257 12.368,2.528 C12.368,1.42343 13.2634,0.528 14.368,0.528 C15.4726,0.528 16.368,1.42343 16.368,2.528 M0.368,14.528 L11.368,14.528 M15.368,14.528 L27.368,14.528 M1.368,14.528 L4.368,4.528 L23.368,4.528 L26.368,14.528"/>
+</g>
+</g>
+</svg>

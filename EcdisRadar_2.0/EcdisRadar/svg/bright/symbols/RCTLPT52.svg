@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="7.05556mm" height="16.2278mm"
+ viewBox="0 0 20 46"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>RCTLPT52</title>
+<desc>recommended traffic direction between parts of a traffic separation scheme, or for ships not needing a deep water route</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" vector-effect="non-scaling-stroke" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#c64dbb" stroke-opacity="1" stroke-width="3" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M5.92,5.384 L9.92,0.384 L13.92,5.384"/>
+<path fill-rule="evenodd" d="M2.92,9.384 L-0.08,12.384 L4.92,12.384"/>
+<path fill-rule="evenodd" d="M13.92,12.384 L18.92,12.384 L15.92,8.384"/>
+<path fill-rule="evenodd" d="M4.92,38.384 L4.92,44.384 L14.92,44.384 L14.92,38.384"/>
+<path fill-rule="evenodd" d="M4.92,33.384 L4.92,28.384"/>
+<path fill-rule="evenodd" d="M4.92,17.384 L4.92,22.384"/>
+<path fill-rule="evenodd" d="M14.92,17.384 L14.92,22.384"/>
+<path fill-rule="evenodd" d="M14.92,28.384 L14.92,33.384"/>
+</g>
+</g>
+</svg>

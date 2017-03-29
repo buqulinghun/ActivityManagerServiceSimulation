@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="7.05556mm" height="3.88056mm"
+ viewBox="0 0 20 11"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>LIGHTS82</title>
+<desc>floodlight</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" vector-effect="non-scaling-stroke" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#c64dbb" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M6.68,5.896 C6.68,7.55285 5.33685,8.896 3.68,8.896 C2.02315,8.896 0.68,7.55285 0.68,5.896 C0.68,4.23915 2.02315,2.896 3.68,2.896 C5.33685,2.896 6.68,4.23915 6.68,5.896 "/>
+<path fill-rule="evenodd" d="M8.68,8.896 L15.68,9.896"/>
+<path fill-rule="evenodd" d="M7.68,2.896 L16.68,-0.104"/>
+<path fill-rule="evenodd" d="M9.68,5.896 L18.68,4.896"/>
+</g>
+</g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="9.525mm" height="9.525mm"
+ viewBox="0 0 27 27"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>AIRARE02</title>
+<desc>symbol for airport as a point</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" vector-effect="non-scaling-stroke" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#937427" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M24.408,13.376 C24.408,20.0034 19.0354,25.376 12.408,25.376 C5.78058,25.376 0.408,20.0034 0.408,13.376 C0.408,6.74858 5.78058,1.376 12.408,1.376 C19.0354,1.376 24.408,6.74858 24.408,13.376 "/>
+<path fill-rule="evenodd" d="M8.408,20.376 L16.408,20.376 L14.408,17.376 L14.408,14.376 L22.408,14.376 L14.408,9.376 L14.408,5.376 L13.408,3.376 L10.408,5.376 L10.408,9.376 L2.408,14.376 L10.408,14.376 L10.408,18.376 L8.408,20.376"/>
+</g>
+</g>
+</svg>

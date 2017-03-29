@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="2.82222mm" height="5.29167mm"
+ viewBox="0 0 8 15"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>QUESMRK1</title>
+<desc>object which is not sufficiently described to be symbolized, or for which no symbol exists in the symbol library</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" vector-effect="non-scaling-stroke" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#c64dbb" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M0.464,3.376 L0.464,2.376 L1.464,1.376 L2.464,0.376 L3.464,0.376 L4.464,0.376 L5.464,0.376 L6.464,1.376 L6.464,2.376 L7.464,3.376 L7.464,4.376 L6.464,4.376 L6.464,5.376 L5.464,6.376 L5.464,7.376 L4.464,7.376 L3.464,8.376 L3.464,9.376 L3.464,10.376 L3.464,11.376"/>
+</g>
+
+<g fill="none" stroke="#c64dbb" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M2.464,14.376 L5.464,14.376"/>
+</g>
+</g>
+</svg>

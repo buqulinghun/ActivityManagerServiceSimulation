@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="5.99722mm" height="6.35mm"
+ viewBox="0 0 17 18"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>BCNLTC01</title>
+<desc>lattice beacon, paper-chart</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" vector-effect="non-scaling-stroke" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#070707" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M10.64,15.04 C10.64,16.1446 9.74457,17.04 8.64,17.04 C7.53543,17.04 6.64,16.1446 6.64,15.04 C6.64,13.9354 7.53543,13.04 8.64,13.04 C9.74457,13.04 10.64,13.9354 10.64,15.04 M0.64,15.04 L5.64,15.04 M9.64,15.04 L16.64,15.04 M1.64,15.04 L4.64,0.04 L11.64,0.04 L14.64,15.04"/>
+<path fill-rule="evenodd" d="M1.64,12.04 L12.64,8.04 M3.64,8.04 L13.64,12.04 M4.64,1.04 L12.64,5.04 M11.64,2.04 L3.64,5.04"/>
+</g>
+</g>
+</svg>

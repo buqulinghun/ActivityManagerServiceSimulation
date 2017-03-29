@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="7.05556mm" height="15.5222mm"
+ viewBox="0 0 20 44"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>FAIRWY52</title>
+<desc>fairway with two-way traffic</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" vector-effect="non-scaling-stroke" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#88988b" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M14.304,28.672 L19.304,28.672 L10.304,43.672 L0.304,28.672 L5.304,28.672"/>
+<path fill-rule="evenodd" d="M5.304,28.672 L5.304,14.672 L0.304,14.672 L10.304,-0.328 L19.304,14.672 L14.304,14.672 L14.304,28.672"/>
+</g>
+</g>
+</svg>

@@ -1,0 +1,11 @@
+import sys
+import os
+
+env = Environment(ENV = os.environ,
+                  CCFLAGS = ['-g', '-pg', '-Wall', '-ansi', '-pedantic'])
+
+env.Library('libiso8211.a',
+            ['cpl_conv.cpp', 'cpl_error.cpp', 'cpl_string.cpp',
+            'cpl_vsisimple.cpp', 'ddffield.cpp', 'ddffielddefn.cpp',
+            'ddfmodule.cpp', 'ddfrecord.cpp', 'ddfsubfielddefn.cpp',
+            'ddfutils.cpp'])

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="13.0528mm" height="5.29167mm"
+ viewBox="0 0 37 15"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>UNITMTR1</title>
+<desc>change of depth unit line, bounds 'metre depths'</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" vector-effect="non-scaling-stroke" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#88988b" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M-0.512,-0.288 L35.488,-0.288"/>
+<path fill-rule="evenodd" d="M13.488,4.712 L13.488,13.712 L16.488,4.712 L20.488,13.712 L20.488,4.712"/>
+</g>
+</g>
+</svg>

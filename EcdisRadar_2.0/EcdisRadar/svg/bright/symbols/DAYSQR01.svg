@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="4.93889mm" height="7.05556mm"
+ viewBox="0 0 14 20"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>DAYSQR01</title>
+<desc>square or rectangular daymark, simplified</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" vector-effect="non-scaling-stroke" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#c64dbb" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M0.072,0.112 L0.072,13.112 L13.072,13.112 L13.072,0.112 L0.072,0.112"/>
+<path fill-rule="evenodd" d="M7.072,14.112 L7.072,19.112"/>
+</g>
+
+<g fill="#c64dbb" fill-opacity="1" stroke="#c64dbb" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M8.072,13.112 C8.072,13.6643 7.62428,14.112 7.072,14.112 C6.51972,14.112 6.072,13.6643 6.072,13.112 C6.072,12.5597 6.51972,12.112 7.072,12.112 C7.62428,12.112 8.072,12.5597 8.072,13.112 "/>
+</g>
+
+<g fill="none" stroke="#c64dbb" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="#c64dbb" fill-opacity="1" stroke="#c64dbb" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M7.072,13.112"/>
+</g>
+
+<g fill="none" stroke="#c64dbb" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M7.072,13.112"/>
+<path fill-rule="evenodd" d="M8.072,13.112 C8.072,13.6643 7.62428,14.112 7.072,14.112 C6.51972,14.112 6.072,13.6643 6.072,13.112 C6.072,12.5597 6.51972,12.112 7.072,12.112 C7.62428,12.112 8.072,12.5597 8.072,13.112 "/>
+</g>
+</g>
+</svg>

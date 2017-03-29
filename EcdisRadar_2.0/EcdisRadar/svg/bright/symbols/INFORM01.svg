@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="18.3444mm" height="18.3444mm"
+ viewBox="0 0 52 52"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>INFORM01</title>
+<desc>this object has additional information available by cursor query</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" vector-effect="non-scaling-stroke" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#c64dbb" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M35.784,16.472 L51.784,16.472 L51.784,0.472 L35.784,0.472 L35.784,16.472"/>
+<path fill-rule="evenodd" d="M42.784,2.472 L42.784,3.472"/>
+<path fill-rule="evenodd" d="M43.784,13.472 L43.784,5.472 L40.784,5.472"/>
+<path fill-rule="evenodd" d="M39.784,13.472 L45.784,13.472"/>
+<path fill-rule="evenodd" d="M6.784,47.472 C6.784,49.1289 5.44085,50.472 3.784,50.472 C2.12715,50.472 0.784,49.1289 0.784,47.472 C0.784,45.8151 2.12715,44.472 3.784,44.472 C5.44085,44.472 6.784,45.8151 6.784,47.472 "/>
+<path fill-rule="evenodd" d="M35.784,15.472 L5.784,45.472"/>
+</g>
+</g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="9.525mm" height="9.525mm"
+ viewBox="0 0 27 27"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>INFARE51</title>
+<desc>area with minor restrictions or information notices</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" vector-effect="non-scaling-stroke" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#d4b1dd" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M7.576,22.136 L21.576,22.136"/>
+<path fill-rule="evenodd" d="M11.576,2.136 L11.576,5.136"/>
+<path fill-rule="evenodd" d="M0.576,26.136 L25.576,26.136 L25.576,0.136"/>
+<path fill-rule="evenodd" d="M0.576,26.136 L0.576,0.136 L25.576,0.136"/>
+<path fill-rule="evenodd" d="M14.576,22.136 L14.576,9.136 L8.576,9.136"/>
+</g>
+</g>
+</svg>

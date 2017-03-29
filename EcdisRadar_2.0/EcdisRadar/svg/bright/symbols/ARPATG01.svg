@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="5.99722mm" height="5.99722mm"
+ viewBox="0 0 17 17"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>ARPATG01</title>
+<desc>ARPA target</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" vector-effect="non-scaling-stroke" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#40aaa5" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="#40aaa5" fill-opacity="1" stroke="#40aaa5" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M9.64,8.64 C9.64,9.19228 9.19228,9.64 8.64,9.64 C8.08772,9.64 7.64,9.19228 7.64,8.64 C7.64,8.08772 8.08772,7.64 8.64,7.64 C9.19228,7.64 9.64,8.08772 9.64,8.64 "/>
+</g>
+
+<g fill="none" stroke="#40aaa5" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="#40aaa5" fill-opacity="1" stroke="#40aaa5" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M8.64,8.64"/>
+</g>
+
+<g fill="none" stroke="#40aaa5" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M16.64,8.64 C16.64,13.0583 13.0583,16.64 8.64,16.64 C4.22172,16.64 0.64,13.0583 0.64,8.64 C0.64,4.22172 4.22172,0.64 8.64,0.64 C13.0583,0.64 16.64,4.22172 16.64,8.64 M8.64,8.64"/>
+</g>
+</g>
+</svg>

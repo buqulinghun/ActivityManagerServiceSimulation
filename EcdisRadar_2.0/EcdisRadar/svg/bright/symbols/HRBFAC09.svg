@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="7.05556mm" height="7.05556mm"
+ viewBox="0 0 20 20"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>HRBFAC09</title>
+<desc>fishing harbour</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" vector-effect="non-scaling-stroke" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#c64dbb" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M3.144,9.952 L4.144,8.952 L5.144,7.952 L6.144,6.952 L7.144,6.952 L8.144,5.952 L9.144,5.952 L10.144,5.952 L11.144,5.952 L12.144,5.952 L14.144,5.952 L15.144,5.952 L16.144,6.952 L17.144,6.952 L18.144,7.952 L18.144,8.952 L19.144,9.952 L18.144,9.952 L17.144,10.952 L15.144,11.952 L14.144,11.952 L13.144,12.952 L12.144,12.952 L11.144,12.952 L10.144,12.952 L9.144,12.952 L8.144,12.952 L8.144,11.952 L7.144,11.952 L6.144,10.952 L5.144,10.952 L4.144,9.952 L3.144,9.952"/>
+<path fill-rule="evenodd" d="M3.144,9.952 L0.144,11.952 L0.144,10.952 L0.144,9.952 L0.144,8.952 L0.144,7.952 L0.144,6.952 L1.144,5.952 L3.144,9.952"/>
+<path fill-rule="evenodd" d="M3.144,2.952 L4.144,1.952 L5.144,0.952 L6.144,0.952 L8.144,-0.048 L10.144,-0.048 L12.144,-0.048 L14.144,0.952 L15.144,1.952 L16.144,2.952 L17.144,3.952 L18.144,4.952"/>
+<path fill-rule="evenodd" d="M3.144,15.952 L4.144,16.952 L6.144,17.952 L7.144,17.952 L8.144,18.952 L10.144,18.952 L11.144,18.952 L12.144,18.952 L13.144,17.952 L15.144,16.952 L16.144,15.952 L17.144,15.952 L18.144,13.952"/>
+</g>
+</g>
+</svg>

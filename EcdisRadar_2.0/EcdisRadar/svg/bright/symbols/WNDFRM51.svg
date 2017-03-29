@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="9.17222mm" height="9.17222mm"
+ viewBox="0 0 26 26"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>WNDFRM51</title>
+<desc>wind generator farm</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" vector-effect="non-scaling-stroke" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#937427" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M13.12,7.144 L19.12,7.144"/>
+<path fill-rule="evenodd" d="M13.12,7.144 L8.12,2.144"/>
+<path fill-rule="evenodd" d="M13.12,7.144 L8.12,12.144"/>
+<path fill-rule="evenodd" d="M24.12,12.144 C24.12,18.7714 18.7474,24.144 12.12,24.144 C5.49258,24.144 0.12,18.7714 0.12,12.144 C0.12,5.51658 5.49258,0.144 12.12,0.144 C18.7474,0.144 24.12,5.51658 24.12,12.144 "/>
+<path fill-rule="evenodd" d="M8.12,21.144 L17.12,21.144"/>
+<path fill-rule="evenodd" d="M12.12,7.144 L12.12,21.144"/>
+</g>
+</g>
+</svg>

@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>600</width>
+    <height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralWidget"/>
+  <widget class="QMenuBar" name="menuBar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>600</width>
+     <height>23</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menu">
+    <property name="title">
+     <string>图库管理</string>
+    </property>
+    <addaction name="chartSelect"/>
+   </widget>
+   <widget class="QMenu" name="menu_2">
+    <property name="title">
+     <string>显示设置</string>
+    </property>
+    <addaction name="displayAll"/>
+    <addaction name="displayStand"/>
+    <addaction name="displayBase"/>
+    <addaction name="separator"/>
+    <addaction name="BRIGHT"/>
+    <addaction name="WHITEBACK"/>
+    <addaction name="BLACKBACK"/>
+    <addaction name="DUSK"/>
+    <addaction name="NIGHT"/>
+    <addaction name="separator"/>
+    <addaction name="simplePoint"/>
+    <addaction name="paperPoint"/>
+    <addaction name="separator"/>
+    <addaction name="symbolArea"/>
+    <addaction name="simpleArea"/>
+    <addaction name="separator"/>
+    <addaction name="safeContour"/>
+    <addaction name="separator"/>
+    <addaction name="chinese"/>
+    <addaction name="english"/>
+   </widget>
+   <widget class="QMenu" name="menu_3">
+    <property name="title">
+     <string>图层设置</string>
+    </property>
+    <addaction name="layout"/>
+   </widget>
+   <widget class="QMenu" name="menu_4">
+    <property name="title">
+     <string>记录查询</string>
+    </property>
+    <addaction name="sailRecoder"/>
+    <addaction name="alarmRecoder"/>
+   </widget>
+   <widget class="QMenu" name="menu_5">
+    <property name="title">
+     <string>帮助</string>
+    </property>
+    <addaction name="help"/>
+   </widget>
+   <widget class="QMenu" name="RadarOps">
+    <property name="title">
+     <string>雷达操作</string>
+    </property>
+    <widget class="QMenu" name="menu_6">
+     <property name="title">
+      <string>调谐操作</string>
+     </property>
+     <addaction name="tuneMan"/>
+     <addaction name="tuneAuto"/>
+    </widget>
+    <addaction name="openAndClose"/>
+    <addaction name="separator"/>
+    <addaction name="rangeAdd"/>
+    <addaction name="rangeSec"/>
+    <addaction name="separator"/>
+    <addaction name="offsetOps"/>
+    <addaction name="separator"/>
+    <addaction name="gainOps"/>
+    <addaction name="restrainOps"/>
+    <addaction name="clutterOps"/>
+    <addaction name="separator"/>
+    <addaction name="menu_6"/>
+    <addaction name="separator"/>
+    <addaction name="action_2"/>
+   </widget>
+   <widget class="QMenu" name="menu_7">
+    <property name="title">
+     <string>雷达图像</string>
+    </property>
+    <widget class="QMenu" name="menu_9">
+     <property name="title">
+      <string>颜色设置</string>
+     </property>
+     <addaction name="green"/>
+     <addaction name="yellow"/>
+     <addaction name="red"/>
+    </widget>
+    <widget class="QMenu" name="menu_10">
+     <property name="title">
+      <string>透明度设置</string>
+     </property>
+     <addaction name="highAlpha"/>
+     <addaction name="middleAlpha"/>
+     <addaction name="lowAlpha"/>
+    </widget>
+    <addaction name="showRadar"/>
+    <addaction name="closeRadar"/>
+    <addaction name="separator"/>
+    <addaction name="menu_9"/>
+    <addaction name="separator"/>
+    <addaction name="menu_10"/>
+   </widget>
+   <widget class="QMenu" name="menu_8">
+    <property name="title">
+     <string>融合显示操作</string>
+    </property>
+    <addaction name="scaleMatch"/>
+   </widget>
+   <addaction name="menu"/>
+   <addaction name="menu_2"/>
+   <addaction name="menu_3"/>
+   <addaction name="menu_4"/>
+   <addaction name="menu_7"/>
+   <addaction name="RadarOps"/>
+   <addaction name="menu_8"/>
+   <addaction name="menu_5"/>
+  </widget>
+  <widget class="QStatusBar" name="statusBar"/>
+  <action name="sailRecoder">
+   <property name="text">
+    <string>航行记录</string>
+   </property>
+  </action>
+  <action name="alarmRecoder">
+   <property name="text">
+    <string>报警记录</string>
+   </property>
+  </action>
+  <action name="chartSelect">
+   <property name="text">
+    <string>海图选择</string>
+   </property>
+  </action>
+  <action name="displayAll">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="text">
+    <string>显示全部信息</string>
+   </property>
+  </action>
+  <action name="displayStand">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="text">
+    <string>显示标准信息</string>
+   </property>
+  </action>
+  <action name="displayBase">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="text">
+    <string>显示基本信息</string>
+   </property>
+  </action>
+  <action name="BRIGHT">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="text">
+    <string>DAY BRIGHT</string>
+   </property>
+  </action>
+  <action name="WHITEBACK">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="text">
+    <string>DAY WHITEBACK</string>
+   </property>
+  </action>
+  <action name="BLACKBACK">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="text">
+    <string>DAY BLACKBACK</string>
+   </property>
+  </action>
+  <action name="DUSK">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="text">
+    <string>DAY DUSK</string>
+   </property>
+  </action>
+  <action name="NIGHT">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="text">
+    <string>NIGHT</string>
+   </property>
+  </action>
+  <action name="simplePoint">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="text">
+    <string>简单符号</string>
+   </property>
+  </action>
+  <action name="paperPoint">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="text">
+    <string>传统纸海图符号</string>
+   </property>
+  </action>
+  <action name="symbolArea">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="text">
+    <string>符号化区域边</string>
+   </property>
+  </action>
+  <action name="simpleArea">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="text">
+    <string>简单化区域边</string>
+   </property>
+  </action>
+  <action name="safeContour">
+   <property name="text">
+    <string>安全线设定</string>
+   </property>
+  </action>
+  <action name="chinese">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="text">
+    <string>中文显示</string>
+   </property>
+  </action>
+  <action name="english">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="text">
+    <string>英文显示</string>
+   </property>
+  </action>
+  <action name="layout">
+   <property name="text">
+    <string>图层管理</string>
+   </property>
+  </action>
+  <action name="help">
+   <property name="text">
+    <string>关于海图显示器</string>
+   </property>
+  </action>
+  <action name="openAndClose">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="text">
+    <string>打开/关闭</string>
+   </property>
+  </action>
+  <action name="rangeAdd">
+   <property name="text">
+    <string>增加量程</string>
+   </property>
+  </action>
+  <action name="rangeSec">
+   <property name="text">
+    <string>减少量程</string>
+   </property>
+  </action>
+  <action name="offsetOps">
+   <property name="text">
+    <string>偏心操作</string>
+   </property>
+  </action>
+  <action name="gainOps">
+   <property name="text">
+    <string>增益调整</string>
+   </property>
+  </action>
+  <action name="restrainOps">
+   <property name="text">
+    <string>雨雪调整</string>
+   </property>
+  </action>
+  <action name="clutterOps">
+   <property name="text">
+    <string>海浪调整</string>
+   </property>
+  </action>
+  <action name="tuneMan">
+   <property name="text">
+    <string>手动调谐</string>
+   </property>
+  </action>
+  <action name="tuneAuto">
+   <property name="text">
+    <string>自动调谐</string>
+   </property>
+  </action>
+  <action name="action_2">
+   <property name="text">
+    <string>距离调整</string>
+   </property>
+  </action>
+  <action name="showRadar">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="text">
+    <string>显示图像</string>
+   </property>
+  </action>
+  <action name="closeRadar">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="text">
+    <string>关闭图像</string>
+   </property>
+  </action>
+  <action name="scaleMatch">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="text">
+    <string>比例尺匹配</string>
+   </property>
+  </action>
+  <action name="green">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="text">
+    <string>绿色</string>
+   </property>
+  </action>
+  <action name="yellow">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="text">
+    <string>黄色</string>
+   </property>
+  </action>
+  <action name="red">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="text">
+    <string>红色</string>
+   </property>
+  </action>
+  <action name="highAlpha">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="text">
+    <string>低透明度</string>
+   </property>
+  </action>
+  <action name="middleAlpha">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="text">
+    <string>中透明度</string>
+   </property>
+  </action>
+  <action name="lowAlpha">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="text">
+    <string>高透明度</string>
+   </property>
+  </action>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources/>
+ <connections/>
+</ui>

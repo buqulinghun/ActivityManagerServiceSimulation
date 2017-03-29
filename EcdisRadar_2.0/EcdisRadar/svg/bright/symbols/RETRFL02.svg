@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="2.82222mm" height="4.23333mm"
+ viewBox="0 0 8 12"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>RETRFL02</title>
+<desc>retro reflector, simplified</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" vector-effect="non-scaling-stroke" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#c64dbb" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M0.312,2.552 L6.312,2.552"/>
+<path fill-rule="evenodd" d="M0.312,9.552 L6.312,9.552"/>
+<path fill-rule="evenodd" d="M0.312,5.552 L6.312,5.552"/>
+<path fill-rule="evenodd" d="M0.312,0.552 L0.312,11.552"/>
+</g>
+</g>
+</svg>

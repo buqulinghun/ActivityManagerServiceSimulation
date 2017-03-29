@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="10.5833mm" height="10.5833mm"
+ viewBox="0 0 30 30"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>TSSRON51</title>
+<desc>traffic roundabout</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" vector-effect="non-scaling-stroke" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#d4b1dd" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M0.608,16.552 L0.608,19.552 L2.608,22.552 L3.608,24.552 L6.608,26.552 L10.608,28.552 L13.608,29.552 L16.608,29.552 L19.608,28.552 L23.608,26.552 L25.608,23.552 L27.608,20.552 L28.608,16.552 L28.608,13.552 L27.608,8.552 L25.608,5.552 L22.608,2.552 L18.608,1.552 L14.608,0.552 L10.608,1.552 L6.608,2.552 L4.608,4.552 L9.608,10.552 L0.608,10.552 L0.608,0.552 L4.608,4.552"/>
+</g>
+</g>
+</svg>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="37.3944mm" height="4.23333mm"
+ viewBox="0 0 106 12"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>TIDINF51</title>
+<desc>boundary of an area for which there is tidal information</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" vector-effect="non-scaling-stroke" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#88988b" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M-0.216,5.328 L18.784,5.328"/>
+<path fill-rule="evenodd" d="M85.784,5.328 L104.784,5.328"/>
+<path fill-rule="evenodd" d="M90.784,5.328 L95.784,10.328 L100.784,5.328"/>
+<path fill-rule="evenodd" d="M59.784,5.328 L78.784,5.328"/>
+<path fill-rule="evenodd" d="M63.784,5.328 L68.784,10.328 L74.784,5.328"/>
+<path fill-rule="evenodd" d="M3.784,5.328 L8.784,10.328 L14.784,5.328"/>
+<path fill-rule="evenodd" d="M24.784,5.328 L52.784,5.328"/>
+<path fill-rule="evenodd" d="M26.784,5.328 L26.784,4.328 L27.784,3.328 L27.784,2.328 L28.784,1.328 L29.784,0.328 L30.784,0.328 L31.784,0.328 L32.784,-0.672 L33.784,0.328 L34.784,0.328 L35.784,1.328 L36.784,1.328 L36.784,2.328 L37.784,3.328 L37.784,4.328 L37.784,5.328 L37.784,6.328 L37.784,7.328 L38.784,8.328 L39.784,9.328 L40.784,10.328 L41.784,10.328 L42.784,10.328 L44.784,10.328 L45.784,10.328 L46.784,9.328 L46.784,8.328 L47.784,7.328 L47.784,6.328 L47.784,5.328"/>
+</g>
+</g>
+</svg>

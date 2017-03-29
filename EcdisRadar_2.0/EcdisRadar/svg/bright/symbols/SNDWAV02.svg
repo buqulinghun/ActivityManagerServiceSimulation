@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="13.7583mm" height="2.46944mm"
+ viewBox="0 0 39 7"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>SNDWAV02</title>
+<desc>sand waves</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" vector-effect="non-scaling-stroke" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#88988b" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M0.456,5.528 L2.456,5.528 L4.456,5.528 L6.456,0.528 L7.456,0.528 L9.456,5.528 L10.456,5.528 L15.456,5.528 L16.456,4.528 L18.456,0.528 L19.456,0.528 L20.456,4.528 L21.456,5.528 L26.456,5.528 L27.456,5.528 L28.456,5.528 L30.456,0.528 L32.456,0.528 L33.456,5.528 L35.456,5.528 L37.456,5.528"/>
+</g>
+</g>
+</svg>

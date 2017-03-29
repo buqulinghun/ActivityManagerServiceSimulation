@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="3.88056mm" height="6.70278mm"
+ viewBox="0 0 11 19"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>TOWERS12</title>
+<desc>conspicuous water tower</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" vector-effect="non-scaling-stroke" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#070707" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M6.44,16.64 C6.44,17.1923 5.99228,17.64 5.44,17.64 C4.88772,17.64 4.44,17.1923 4.44,16.64 C4.44,16.0877 4.88772,15.64 5.44,15.64 C5.99228,15.64 6.44,16.0877 6.44,16.64 M1.44,16.64 L3.44,3.64 M8.44,3.64 L8.44,0.64 L1.44,0.64 L1.44,3.64 L8.44,3.64 M0.44,16.64 L3.44,16.64"/>
+<path fill-rule="evenodd" d="M6.44,16.64 L9.44,16.64 M8.44,16.64 L6.44,3.64"/>
+</g>
+</g>
+</svg>

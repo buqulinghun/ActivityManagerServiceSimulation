@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="10.2306mm" height="7.40833mm"
+ viewBox="0 0 29 21"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>BOYSUP03</title>
+<desc>LANBY, super-buoy, paper-chart</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" vector-effect="non-scaling-stroke" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#070707" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M15.464,18.944 C15.464,19.4963 15.0163,19.944 14.464,19.944 C13.9117,19.944 13.464,19.4963 13.464,18.944 C13.464,18.3917 13.9117,17.944 14.464,17.944 C15.0163,17.944 15.464,18.3917 15.464,18.944 M14.464,4.944 L14.464,-0.056 M10.464,1.944 L16.464,4.944 M10.464,4.944 L16.464,1.944 M0.464,18.944 L12.464,18.944 M15.464,18.944"/>
+<path fill-rule="evenodd" d="M15.464,18.944 L27.464,18.944 M1.464,18.944 L4.464,8.944 L22.464,8.944 L26.464,18.944 M14.464,8.944 L14.464,2.944"/>
+</g>
+</g>
+</svg>

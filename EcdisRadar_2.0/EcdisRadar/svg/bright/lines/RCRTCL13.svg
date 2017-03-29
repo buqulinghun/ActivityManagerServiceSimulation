@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="26.4583mm" height="5.99722mm"
+ viewBox="0 0 75 17"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>RCRTCL13</title>
+<desc>regulated two-way recommended route centreline, based on fixed-marks</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" vector-effect="non-scaling-stroke" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#c64dbb" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M-0.104,8.408 L73.896,8.408"/>
+<path fill-rule="evenodd" d="M15.896,-0.592 L10.896,2.408 L16.896,5.408"/>
+<path fill-rule="evenodd" d="M55.896,10.408 L60.896,13.408 L55.896,16.408"/>
+<path fill-rule="evenodd" d="M34.896,13.408 L40.896,13.408"/>
+<path fill-rule="evenodd" d="M43.896,13.408 L50.896,13.408"/>
+<path fill-rule="evenodd" d="M53.896,13.408 L60.896,13.408"/>
+<path fill-rule="evenodd" d="M11.896,2.408 L17.896,2.408"/>
+<path fill-rule="evenodd" d="M20.896,2.408 L27.896,2.408"/>
+<path fill-rule="evenodd" d="M30.896,2.408 L36.896,2.408"/>
+</g>
+</g>
+</svg>

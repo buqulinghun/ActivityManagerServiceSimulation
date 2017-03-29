@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="7.05556mm" height="2.46944mm"
+ viewBox="0 0 20 7"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>PIPSOL05</title>
+<desc>oil, gas pipeline, submerged or on land</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" vector-effect="non-scaling-stroke" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#c64dbb" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M18.536,2.992 C18.536,4.64885 17.1929,5.992 15.536,5.992 C13.8791,5.992 12.536,4.64885 12.536,2.992 C12.536,1.33515 13.8791,-0.008 15.536,-0.008 C17.1929,-0.008 18.536,1.33515 18.536,2.992 "/>
+<path fill-rule="evenodd" d="M-0.464,2.992 L12.536,2.992"/>
+</g>
+</g>
+</svg>

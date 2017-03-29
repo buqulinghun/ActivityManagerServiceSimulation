@@ -1,0 +1,2537 @@
+BEGIN
+<
+Attribute: Agency responsible for production
+Acronym: AGENCY
+Code: 1
+Attribute type: A
+>
+<
+Attribute: Beacon shape
+Acronym: BCNSHP
+Code: 2
+Attribute type: E
+1 : stake, pole, perch, post  
+2 : withy  
+3 : beacon tower  
+4 : lattice beacon  
+5 : pile beacon
+6 : cairn  
+7 : buoyant beacon  
+enum end
+>
+<
+Attribute: Building shape
+Acronym: BUISHP
+Code: 3
+Attribute type: E
+1 : no specific shape
+2 : tower
+3 : spire
+4 : cupola (dome)
+5 : high-rise building
+6 : pyramid
+7 : cylindrical
+8 : spherical
+9 : cubic
+enum end
+>
+<
+Attribute: Buoy shape
+Acronym: BOYSHP
+Code: 4
+Attribute type: E
+1 : conical (nun, ogival)  
+2 : can (cylindrical)  
+3 : spherical  
+4 : pillar  
+5 : spar (spindle)  
+6 : barrel (tun)  
+7 : super-buoy  
+8 : ice buoy
+enum end
+>
+<
+Attribute: Buried depth
+Acronym: BURDEP
+Code: 5
+Attribute type: F
+>
+<
+Attribute: Call sign
+Acronym: CALSGN
+Code: 6
+Attribute type: S
+>
+<
+Attribute: Category of airport/airfield
+Acronym: CATAIR
+Code: 7
+Attribute type: L
+1 : military aeroplane airport
+2 : civil aeroplane airport
+3 : military heliport
+4 : civil heliport
+5 : glider airfield
+6 : small planes airfield
+7 : helicopter platform
+8 : emergency airfield
+enum end
+>
+<
+Attribute: Category of anchorage
+Acronym: CATACH
+Code: 8
+Attribute type: L
+1 : unrestricted anchorage
+2 : deep water anchorage  
+3 : tanker anchorage  
+4 : explosives anchorage  
+5 : quarantine anchorage  
+6 : sea-plane anchorage  
+7 : small craft anchorage
+8 : small craft mooring area  
+9 : anchorage for periods up to 24 hours  
+10 : anchorage for a limited period of time
+enum end
+>
+<
+Attribute: Category of bridge
+Acronym: CATBRG
+Code: 9
+Attribute type: L
+1 : fixed bridge  
+2 : opening bridge  
+3 : swing bridge  
+4 : lifting bridge  
+5 : bascule bridge  
+6 : pontoon bridge  
+7 : draw bridge  
+8 : transporter bridge  
+9 : footbridge
+10 : viaduct
+11 : aqueduct
+12 : suspension bridge
+enum end
+>
+<
+Attribute: Category of built-up area
+Acronym: CATBUA
+Code: 10
+Attribute type: E
+1 : urban area  
+2 : settlement  
+3 : village   
+4 : town
+5 : city
+6 : holiday village
+enum end
+>
+<
+Attribute: Category of cable
+Acronym: CATCBL
+Code: 11
+Attribute type: E
+1 : power line  
+2 : telephone/telegraph
+3 : transmission line
+4 : telephone  
+5 : telegraph  
+6 : mooring cable/chain
+enum end
+>
+<
+Attribute: Category of canal
+Acronym: CATCAN
+Code: 12
+Attribute type: E
+1 : transportation
+2 : drainage
+3 : irrigation
+enum end
+>
+<
+Attribute: Category of cardinal mark
+Acronym: CATCAM
+Code: 13
+Attribute type: E
+1 : north cardinal mark  
+2 : east cardinal mark  
+3 : south cardinal mark  
+4 : west cardinal mark  
+enum end
+>
+<
+Attribute: Category of checkpoint
+Acronym: CATCHP
+Code: 14
+Attribute type: E
+1 : custom
+enum end
+>
+<
+Attribute: Category of coastline
+Acronym: CATCOA
+Code: 15
+Attribute type: E
+1 : steep coast  
+2 : flat coast  
+3 : sandy shore  
+4 : stony shore  
+5 : shingly shore  
+6 : glacier (seaward end)  
+7 : mangrove  
+8 : marshy shore  
+9 : coral reef
+10 : ice coast  
+11 : shelly shore
+enum end
+>
+<
+Attribute: Category of control point
+Acronym: CATCTR
+Code: 16
+Attribute type: E
+1 : triangulation point  
+2 : observation spot  
+3 : fixed point  
+4 : bench-mark  
+5 : boundary mark  
+6 : horizontal control, main station
+7 : horizontal control, secondary station
+enum end
+>
+<
+Attribute: Category of conveyor
+Acronym: CATCON
+Code: 17
+Attribute type: E
+1 : aerial cableway (telepheric)  
+2 : belt conveyor
+enum end
+>
+<
+Attribute: Category of coverage
+Acronym: CATCOV
+Code: 18
+Attribute type: E
+1 : coverage available
+2 : no coverage available
+enum end
+>
+<
+Attribute: Category of crane
+Acronym: CATCRN
+Code: 19
+Attribute type: E
+1 : crane without specific construction
+2 : container crane/gantry  
+3 : sheerlegs  
+4 : travelling crane  
+5 : A-frame
+enum end
+>
+<
+Attribute: Category of dam
+Acronym: CATDAM
+Code: 20
+Attribute type: E
+1 : weir
+2 : dam  
+3 : flood barrage  
+enum end
+>
+<
+Attribute: Category of distance mark
+Acronym: CATDIS
+Code: 21
+Attribute type: E
+1 : distance mark not physically installed  
+2 : visible mark, pole  
+3 : visible mark, board  
+4 : visible mark, unknown shape  
+enum end
+>
+<
+Attribute: Category of dock
+Acronym: CATDOC
+Code: 22
+Attribute type: E
+1 : tidal  
+2 : non-tidal (wet dock)  
+enum end
+>
+<
+Attribute: Category of dumping ground
+Acronym: CATDPG
+Code: 23
+Attribute type: L
+1 : general dumping ground
+2 : chemical waste dumping ground  
+3 : nuclear waste dumping ground
+4 : explosives dumping ground  
+5 : spoil ground  
+6 : vessel dumping ground
+enum end
+>
+<
+Attribute: Category of fence/wall
+Acronym: CATFNC
+Code: 24
+Attribute type: E
+1 : fence
+2 : muir
+3 : hedge
+4 : wall
+enum end
+>
+<
+Attribute: Category of ferry
+Acronym: CATFRY
+Code: 25
+Attribute type: E
+1 : >free-moving= ferry  
+2 : cable ferry  
+3 : ice ferry
+enum end
+>
+<
+Attribute: Category of fishing facility
+Acronym: CATFIF
+Code: 26
+Attribute type: E
+1 : fishing stake  
+2 : fish trap  
+3 : fish weir  
+4 : tunny net  
+enum end
+>
+<
+Attribute: Category of fog signal
+Acronym: CATFOG
+Code: 27
+Attribute type: E
+1 : explosive  
+2 : diaphone  
+3 : siren  
+4 : nautophone  
+5 : reed  
+6 : tyfon  
+7 : bell  
+8 : whistle  
+9 : gong  
+10 : horn  
+enum end
+>
+<
+Attribute: Category of fortified structure
+Acronym: CATFOR
+Code: 28
+Attribute type: E
+1 : castle  
+2 : fort  
+3 : battery  
+4 : blockhouse  
+5 : Martello tower
+6 : redoubt
+enum end
+>
+<
+Attribute: Category of gate
+Acronym: CATGAT
+Code: 29
+Attribute type: E
+1 : gate in general
+2 : flood barrage gate  
+3 : caisson  
+4 : lock gate  
+5 : dyke gate
+6 : sluice
+enum end
+>
+<
+Attribute: Category of harbour facility
+Acronym: CATHAF
+Code: 30
+Attribute type: L
+1 : RoRo-terminal  
+2 : timber yard
+3 : ferry terminal
+4 : fishing harbour  
+5 : yacht harbour/marina  
+6 : naval base
+7 : tanker terminal
+8 : passenger terminal
+9 : shipyard
+10 : container terminal
+11 : bulk terminal
+12 : syncrolift
+13 : straddle carrier
+enum end
+>
+<
+Attribute: Category of hulk
+Acronym: CATHLK
+Code: 31
+Attribute type: L
+1 : floating restaurant
+2 : historic ship
+3 : museum
+4 : accommodation
+5 : floating breakwater
+enum end
+>
+<
+Attribute: Category of ice
+Acronym: CATICE
+Code: 32
+Attribute type: L
+1 : fast ice  
+2 : sea ice  
+3 : growler area
+4 : pancake ice
+5 : glacier  
+6 : ice peak
+7 : pack ice
+8 : polar ice
+enum end
+>
+<
+Attribute: Category of installation buoy
+Acronym: CATINB
+Code: 33
+Attribute type: E
+1 : catenary anchor leg mooring (CALM)  
+2 : single buoy mooring (SBM or SPM)  
+enum end
+>
+<
+Attribute: Category of land region
+Acronym: CATLND
+Code: 34
+Attribute type: L
+1 : fen
+2 : marsh  
+3 : moor/bog
+4 : heathland
+5 : mountain range
+6 : lowlands
+7 : canyon lands
+8 : paddy field
+9 : agricultural land
+10 : savanna/grassland
+11 : parkland
+12 : swamp  
+13 : landslide
+14 : lava flow  
+15 : salt pan  
+16 : moraine
+17 : crater
+18 : cave
+19 : rock column or pinnacle
+20 : cay
+enum end
+>
+<
+Attribute: Category of landmark
+Acronym: CATLMK
+Code: 35
+Attribute type: L
+1 : cairn  
+2 : cemetery  
+3 : chimney  
+4 : dish aerial  
+5 : flagstaff (flagpole)  
+6 : flare stack  
+7 : mast
+8 : windsock
+9 : monument  
+10 : column (pillar)
+11 : memorial plaque
+12 : obelisk
+13 : statue
+14 : cross  
+15 : dome  
+16 : radar scanner  
+17 : tower  
+18 : windmill  
+19 : windmotor  
+20 : spire/minaret  
+21 : large rock or boulder on land
+enum end
+>
+<
+Attribute: Category of lateral mark
+Acronym: CATLAM
+Code: 36
+Attribute type: E
+1 : port-hand lateral mark  
+2 : starboard-hand lateral mark  
+3 : preferred channel to starboard lateral mark  
+4 : preferred channel to port lateral mark  
+enum end
+>
+<
+Attribute: Category of light
+Acronym: CATLIT
+Code: 37
+Attribute type: L
+1 : directional function  
+2 : rear/upper light
+3 : front/lower light
+4 : leading light  
+5 : aero light  
+6 : air obstruction light  
+7 : fog detector light  
+8 : flood light  
+9 : strip light  
+10 : subsidiary light  
+11 : spotlight
+12 : front
+13 : rear
+14 : lower
+15 : upper
+16 : moir¨¦ effect  
+17 : emergency
+18 : bearing light  
+19 : horizontally disposed
+20 : vertically disposed
+enum end
+>
+<
+Attribute: Category of marine farm/culture
+Acronym: CATMFA
+Code: 38
+Attribute type: E
+1 : crustaceans  
+2 : oysters/mussels  
+3 : fish  
+4 : seaweed
+5 : pearl culture farm
+enum end
+>
+<
+Attribute: Category of military practice area
+Acronym: CATMPA
+Code: 39
+Attribute type: L
+1 : practice area in general  
+2 : torpedo exercise area
+3 : submarine exercise area  
+4 : firing danger area  
+5 : mine-laying practice area  
+6 : small arms firing range
+enum end
+>
+<
+Attribute: Category of mooring/warping facility
+Acronym: CATMOR
+Code: 40
+Attribute type: E
+1 : dolphin  
+2 : deviation dolphin  
+3 : bollard
+4 : tie-up wall
+5 : post or pile  
+6 : chain/wire/cable  
+7 : mooring buoy  
+enum end
+>
+<
+Attribute: Category of navigation line
+Acronym: CATNAV
+Code: 41
+Attribute type: E
+1 : clearing line  
+2 : transit line  
+3 : leading line bearing a recommended track 
+enum end
+>
+<
+Attribute: Category of obstruction
+Acronym: CATOBS
+Code: 42
+Attribute type: E
+1 : snag/stump  
+2 : wellhead  
+3 : diffuser  
+4 : crib  
+5 : fish haven  
+6 : foul area  
+7 : foul ground  
+8 : ice boom
+9 : ground tackle  
+10 : boom
+enum end
+>
+<
+Attribute: Category of offshore platform
+Acronym: CATOFP
+Code: 43
+Attribute type: L
+1 : oil derrick/rig  
+2 : production platform  
+3 : observation/research platform  
+4 : articulated loading platform (ALP)
+5 : single anchor leg mooring (SALM)  
+6 : mooring tower
+7 : artificial island  
+8 : floating production, storage and off-loading vessel (FPSO)  
+9 : accommodation platform
+10 : navigation, communication and control buoy (NCCB)
+enum end
+>
+<
+Attribute: Category of oil barrier
+Acronym: CATOLB
+Code: 44
+Attribute type: E
+1 : oil retention (high pressure pipe)  
+2 : floating oil barrier  
+enum end
+>
+<
+Attribute: Category of pile
+Acronym: CATPLE
+Code: 45
+Attribute type: E
+1 : stake
+2 : snag
+3 : post  
+4 : tripodal
+enum end
+>
+<
+Attribute: Category of pilot boarding place
+Acronym: CATPIL
+Code: 46
+Attribute type: E
+1 : boarding by pilot-cruising vessel  
+2 : boarding by helicopter  
+3 : pilot comes out from shore  
+enum end
+>
+<
+Attribute: Category of pipeline/pipe
+Acronym: CATPIP
+Code: 47
+Attribute type: L
+1 : pipeline in general
+2 : outfall pipe  
+3 : intake pipe  
+4 : sewer  
+5 : bubbler system
+6 : supply pipe  
+enum end
+>
+<
+Attribute: Category of production area
+Acronym: CATPRA
+Code: 48
+Attribute type: E
+1 : quarry  
+2 : mine  
+3 : stockpile
+4 : power station area
+5 : refinery area  
+6 : timber yard  
+7 : factory area
+8 : tank farm  
+9 : wind farm
+10 : slag heap/spoil heap
+enum end
+>
+<
+Attribute: Category of pylon
+Acronym: CATPYL
+Code: 49
+Attribute type: E
+1 : power transmission pylon/pole
+2 : telephone/telegraph pylon/pole
+3 : aerial cableway/sky pylon
+4 : bridge pylon/tower
+5 : bridge pier
+enum end
+>
+<
+Attribute: Category of quality of data
+Acronym: CATQUA
+Code: 50
+Attribute type: E
+1 : data quality A
+2 : data quality B
+3 : data quality C
+4 : data quality D
+5 : data quality E
+6 : quality not evaluated
+enum end
+>
+<
+Attribute: Category of radar station
+Acronym: CATRAS
+Code: 51
+Attribute type: E
+1 : radar surveillance station  
+2 : coast radar station  
+enum end
+>
+<
+Attribute: Category of radar transponder beacon
+Acronym: CATRTB
+Code: 52
+Attribute type: E
+1 : ramark, radar beacon transmitting continuously  
+2 : racon, radar transponder beacon  
+3 : leading racon/radar transponder beacon  
+enum end
+>
+<
+Attribute: Category of radio station
+Acronym: CATROS
+Code: 53
+Attribute type: L
+1 : circular (non-directional) marine or aero-marine radiobeacon  
+2 : directional radiobeacon  
+3 : rotating-pattern radiobeacon  
+4 : Consol beacon  
+5 : radio direction-finding station  
+6 : coast radio station providing QTG service  
+7 : aeronautical radiobeacon  
+8 : Decca
+9 : Loran C
+10 : Differential GPS
+11 : Toran
+12 : Omega
+13 : Syledis
+14 : Chaika (Chayka)
+enum end
+>
+<
+Attribute: Category of recommended track
+Acronym: CATTRK
+Code: 54
+Attribute type: E
+1 : based on a system of fixed marks  
+2 : not based on a system of fixed marks  
+enum end
+>
+<
+Attribute: Category of rescue station
+Acronym: CATRSC
+Code: 55
+Attribute type: L
+1 : rescue station with lifeboat  
+2 : rescue station with rocket  
+3 : rescue station with lifeboat and rocket
+4 : refuge for shipwrecked mariners  
+5 : refuge for intertidal area walkers  
+6 : lifeboat lying at a mooring  
+7 : aid radio station
+8 : first aid equipment
+enum end
+>
+<
+Attribute: Category of restricted area
+Acronym: CATREA
+Code: 56
+Attribute type: L
+1 : offshore safety zone  
+2 : anchoring prohibition area
+3 : fishing prohibition area
+4 : nature reserve  
+5 : bird sanctuary  
+6 : game reserve  
+7 : seal sanctuary  
+8 : degaussing range 
+9 : military area 
+10 : historic wreck area 
+11 : inshore traffic zone
+12 : navigational aid safety zone  
+13 : danger of stranding area
+14 : minefield  
+15 : diving prohibition area
+16 : area to be avoided
+17 : Prohibited area
+18 : swimming area
+19 : waiting area
+20 : research area
+21 : dredging area  
+22 : fish sanctuary
+23 : ecological reserve
+24 : no wake area
+25 : swinging area
+26 : water skiing area
+enum end
+>
+<
+Attribute: Category of road
+Acronym: CATROD
+Code: 57
+Attribute type: E
+1 : motorway  
+2 : major road  
+3 : minor road  
+4 : track/path  
+5 : major street 
+6 : minor street
+7 : crossing
+enum end
+>
+<
+Attribute: Category of runway
+Acronym: CATRUN
+Code: 58
+Attribute type: E
+1 : aeroplane runway
+2 : helicopter landing pad
+enum end
+>
+<
+Attribute: Category of sea area
+Acronym: CATSEA
+Code: 59
+Attribute type: E
+1 : sea area in general
+2 : gat
+3 : bank
+4 : deep
+5 : bay
+6 : trench
+7 : basin
+8 : mud flats
+9 : reef
+10 : ledge
+11 : canyon
+12 : narrows
+13 : shoal
+14 : knoll
+15 : ridge
+16 : seamount
+17 : pinnacle
+18 : abyssal plain
+19 : plateau
+20 : spur
+21 : shelf
+22 : trough
+23 : saddle
+24 : abyssal hills
+25 : apron
+26 : archipelagic apron
+27 : borderland
+28 : continental margin
+29 : continental rise
+30 : escarpment
+31 : fan
+32 : fracture zone
+33 : gap
+34 : guyot
+35 : hill
+36 : hole
+37 : levee
+38 : median valley
+39 : moat
+40 : mountains
+41 : peak
+42 : province
+43 : rise
+44 : sea channel
+45 : seamount chain
+46 : shelf-edge
+47 : sill
+48 : slope
+49 : terrace
+50 : valley
+51 : canal
+52 : lake
+53 : river
+54 : reach
+enum end
+>
+<
+Attribute: Category of shoreline construction
+Acronym: CATSLC
+Code: 60
+Attribute type: E
+1 : breakwater  
+2 : groyne (groin)  
+3 : mole  
+4 : pier (jetty)  
+5 : promenade pier  
+6 : wharf (quay)  
+7 : training wall  
+8 : rip rap
+9 : revetment
+10 : sea wall  
+11 : landing steps  
+12 : ramp  
+13 : slipway  
+14 : fender
+15 : solid face wharf
+16 : open face wharf
+17 : log ramp
+enum end
+>
+<
+Attribute: Category of signal station, traffic
+Acronym: CATSIT
+Code: 61
+Attribute type: L
+1 : port control  
+2 : port entry and departure
+3 : International Port Traffic  
+4 : berthing
+5 : dock
+6 : lock  
+7 : flood barrage
+8 : bridge passage  
+9 : dredging
+10 : traffic control light  
+enum end
+>
+<
+Attribute: Category of signal station, warning
+Acronym: CATSIW
+Code: 62
+Attribute type: L
+1 : danger  
+2 : maritime obstruction
+3 : cable
+4 : military practice  
+5 : distress  
+6 : weather  
+7 : storm  
+8 : ice  
+9 : time  
+10 : tide  
+11 : tidal stream  
+12 : tide gauge  
+13 : tide scale  
+14 : diving
+15 : water level gauge  
+enum end
+>
+<
+Attribute: Category of silo/tank
+Acronym: CATSIL
+Code: 63
+Attribute type: E
+1 : silo in general  
+2 : tank in general  
+3 : grain elevator
+4 : water tower
+enum end
+>
+<
+Attribute: Category of slope
+Acronym: CATSLO
+Code: 64
+Attribute type: E
+1 : cutting  
+2 : embankment  
+3 : dune  
+4 : hill
+5 : pingo
+6 : cliff  
+7 : scree
+enum end
+>
+<
+Attribute: Category of small craft facility
+Acronym: CATSCF
+Code: 65
+Attribute type: E
+1 : visitor s berth  
+2 : nautical club  
+3 : boat hoist  
+4 : sailmaker 
+5 : boatyard  
+6 : public inn  
+7 : restaurant  
+8 : chandler  
+9 : provisions  
+10 : doctor 
+11 : pharmacy 
+12 : water tap 
+13 : fuel station 
+14 : electricity  
+15 : bottle gas  
+16 : showers  
+17 : launderette 
+18 : public toilets  
+19 : post box  
+20 : public telephone  
+21 : refuse bin  
+22 : car park 
+23 : parking for boats and trailers 
+24 : caravan site 
+25 : camping site  
+26 : sewerage pump-out station
+27 : emergency telephone
+28 : landing/launching place for boats  
+29 : visitors mooring 
+30 : scrubbing berth
+31 : picnic area
+32 : mechanics workshop
+33 : guard and/or security service
+enum end
+>
+<
+Attribute: Category of special purpose mark
+Acronym: CATSPM
+Code: 66
+Attribute type: L
+1 : firing danger area mark  
+2 : target mark  
+3 : marker ship mark  
+4 : degaussing range mark  
+5 : barge mark  
+6 : cable mark  
+7 : spoil ground mark  
+8 : outfall mark  
+9 : ODAS (Ocean-Data-Acquisition-System) 
+10 : recording mark  
+11 : seaplane anchorage mark  
+12 : recreation zone mark  
+13 : private mark  
+14 : mooring mark  
+15 : LANBY (Large Automatic Navigational Buoy) 
+16 : leading mark  
+17 : measured distance mark  
+18 : notice mark  
+19 : TSS mark (Traffic Separation Scheme) 
+20 : anchoring prohibited mark
+21 : berthing prohibited mark
+22 : overtaking prohibited mark
+23 : two-way traffic prohibited mark
+24 : >reduced wake= mark
+25 : speed limit mark  
+26 : stop mark
+27 : general warning mark
+28 : >sound ship=s siren= mark
+29 : restricted vertical clearance mark
+30 : maximum vessel=s draught mark
+31 : restricted horizontal clearance mark
+32 : strong current warning mark
+33 : berthing permitted mark
+34 : overhead power cable mark
+35 : >channel edge gradient= mark
+36 : telephone mark
+37 : ferry crossing mark
+38 : marine traffic lights
+39 : pipeline mark
+40 : anchorage mark
+41 : clearing mark  
+42 : control mark
+43 : diving mark
+44 : refuge beacon
+45 : foul ground mark
+46 : yachting mark
+47 : heliport mark
+48 : GPS mark
+49 : seaplane landing mark
+50 : entry prohibited mark
+51 : work in progress mark
+52 : mark with unknown purpose
+53 : wellhead mark  
+54 : channel separation mark
+55 : marine farm mark
+56 : artificial reef mark
+enum end
+>
+<
+Attribute: Category of Tidal stream
+Acronym: CAT_TS
+Code: 188
+Attribute type: E
+1 : flood stream  
+2 : ebb stream  
+3 : Other tidal flow
+enum end
+>
+<
+Attribute: Category of Traffic Separation Scheme
+Acronym: CATTSS
+Code: 67
+Attribute type: E
+1 : IMO - adopted
+2 : not IMO - adopted
+enum end
+>
+<
+Attribute: Category of vegetation
+Acronym: CATVEG
+Code: 68
+Attribute type: L
+1 : grass
+2 : paddy field
+3 : bush
+4 : deciduous wood
+5 : coniferous wood
+6 : wood in general (inc mixed wood)  
+7 : mangroves  
+8 : park
+9 : parkland
+10 : mixed crops
+11 : reed
+12 : moss
+13 : tree in general  
+14 : evergreen tree  
+15 : coniferous tree 
+16 : palm tree  
+17 : nipa palm tree  
+18 : casuarina tree 
+19 : eucalypt tree 
+20 : deciduous tree 
+21 : mangrove tree  
+22 : filao tree  
+enum end
+>
+<
+Attribute: Category of water turbulence
+Acronym: CATWAT
+Code: 69
+Attribute type: E
+1 : breakers 
+2 : eddies 
+3 : overfalls 
+4 : tide rips  
+5 : bombora
+enum end
+>
+<
+Attribute: Category of weed/kelp
+Acronym: CATWED
+Code: 70
+Attribute type: E
+1 : kelp  
+2 : sea weed  
+3 : sea grass
+4 : saragasso
+enum end
+>
+<
+Attribute: Category of wreck
+Acronym: CATWRK
+Code: 71
+Attribute type: E
+1 : non-dangerous wreck  
+2 : dangerous wreck  
+3 : distributed remains of wreck  
+4 : wreck showing mast/masts  
+5 : wreck showing any portion of hull or superstructure  
+enum end
+>
+<
+Attribute: Category of zone of confidence in data
+Acronym: CATZOC
+Code: 72
+Attribute type: E
+1 : zone of confidence A1
+2 : zone of confidence A2
+3 : zone of confidence B
+4 : zone of confidence C
+5 : zone of confidence D
+6 : zone of confidence U (data not assessed)
+enum end
+>
+<
+Attribute: Character spacing
+Acronym: $SPACE
+Code: 73
+Attribute type: E
+1 : expanded/condensed
+2 : standard
+enum end
+>
+<
+Attribute: Character specification
+Acronym: $CHARS
+Code: 74
+Attribute type: A
+>
+<
+Attribute: Colour
+Acronym: COLOUR
+Code: 75
+Attribute type: L
+1 : white 
+2 : black
+3 : red  
+4 : green  
+5 : blue 
+6 : yellow 
+7 : grey
+8 : brown
+9 : amber  
+10 : violet  
+11 : orange  
+12 : magenta
+13 : pink
+enum end
+>
+<
+Attribute: Colour pattern
+Acronym: COLPAT
+Code: 76
+Attribute type: L
+1 : horizontal stripes
+2 : vertical stripes
+3 : diagonal stripes
+4 : squared
+5 : stripes (direction unknown)
+6 : border stripe
+enum end
+>
+<
+Attribute: Communication channel
+Acronym: COMCHA
+Code: 77
+Attribute type: A
+>
+<
+Attribute: Compass size
+Acronym: $CSIZE
+Code: 78
+Attribute type: F
+>
+<
+Attribute: Compilation date
+Acronym: CPDATE
+Code: 79
+Attribute type: A
+>
+<
+Attribute: Compilation scale
+Acronym: CSCALE
+Code: 80
+Attribute type: I
+>
+<
+Attribute: Condition
+Acronym: CONDTN
+Code: 81
+Attribute type: E
+1 : under construction  
+2 : ruined 
+3 : under reclamation  
+4 : wingless  
+5 : planned construction
+enum end
+>
+<
+Attribute: Conspicuous, radar
+Acronym: CONRAD
+Code: 82
+Attribute type: E
+1 : radar conspicuous 
+2 : not radar conspicuous
+3 : radar conspicuous (has radar reflector)
+enum end
+>
+<
+Attribute: Conspicuous, visually
+Acronym: CONVIS
+Code: 83
+Attribute type: E
+1 : visually conspicuous  
+2 : not visually conspicuous
+enum end
+>
+<
+Attribute: Current velocity
+Acronym: CURVEL
+Code: 84
+Attribute type: F
+>
+<
+Attribute: Date end
+Acronym: DATEND
+Code: 85
+Attribute type: A
+>
+<
+Attribute: Date start
+Acronym: DATSTA
+Code: 86
+Attribute type: A
+>
+<
+Attribute: Depth range value 1
+Acronym: DRVAL1
+Code: 87
+Attribute type: F
+>
+<
+Attribute: Depth range value 2
+Acronym: DRVAL2
+Code: 88
+Attribute type: F
+>
+<
+Attribute: Depth units
+Acronym: DUNITS
+Code: 89
+Attribute type: E
+1 : metres
+2 : fathoms and feet
+3 : feet
+4 : fathoms and fractions
+enum end
+>
+<
+Attribute: Elevation
+Acronym: ELEVAT
+Code: 90
+Attribute type: F
+>
+<
+Attribute: Estimated range of transmission
+Acronym: ESTRNG
+Code: 91
+Attribute type: F
+>
+<
+Attribute: Exhibition condition of light
+Acronym: EXCLIT
+Code: 92
+Attribute type: E
+1 : light shown without change of character
+2 : daytime light  
+3 : fog light  
+4 : night light
+enum end
+>
+<
+Attribute: Exposition of sounding
+Acronym: EXPSOU
+Code: 93
+Attribute type: E
+1 : within the range of depth of the surrounding depth area
+2 : shoaler than the range of depth of the surrounding depth area
+3 : deeper than the range of depth of the surrounding depth area
+enum end
+>
+<
+Attribute: Function
+Acronym: FUNCTN
+Code: 94
+Attribute type: L
+1 : no function/service of major interest
+2 : harbour-master=s office  
+3 : custom office  
+4 : health office  
+5 : hospital 
+6 : post office 
+7 : hotel
+8 : railway station  
+9 : police station
+10 : water-police station
+11 : pilot office  
+12 : pilot lookout  
+13 : bank office
+14 : headquarters for district control
+15 : transit shed/warehouse  
+16 : factory
+17 : power station
+18 : administrative  
+19 : educational facility
+20 : church  
+21 : chapel  
+22 : temple 
+23 : pagoda 
+24 : shinto shrine  
+25 : buddhist temple  
+26 : mosque  
+27 : marabout  
+28 : lookout
+29 : communication
+30 : television
+31 : radio
+32 : radar
+33 : light support
+34 : microwave
+35 : cooling
+36 : observation
+37 : timeball
+38 : clock
+39 : control
+40 : airship mooring
+41 : stadium
+42 : bus station
+enum end
+>
+<
+Attribute: Height
+Acronym: HEIGHT
+Code: 95
+Attribute type: F
+>
+<
+Attribute: Height/length units
+Acronym: HUNITS
+Code: 96
+Attribute type: E
+1 : metres
+2 : feet
+enum end
+>
+<
+Attribute: Horizontal accuracy
+Acronym: HORACC
+Code: 97
+Attribute type: F
+>
+<
+Attribute: Horizontal clearance
+Acronym: HORCLR
+Code: 98
+Attribute type: F
+>
+<
+Attribute: Horizontal length
+Acronym: HORLEN
+Code: 99
+Attribute type: F
+>
+<
+Attribute: Horizontal width
+Acronym: HORWID
+Code: 100
+Attribute type: F
+>
+<
+Attribute: Ice factor
+Acronym: ICEFAC
+Code: 101
+Attribute type: F
+>
+<
+Attribute: Information
+Acronym: INFORM
+Code: 102
+Attribute type: S
+>
+<
+Attribute: Jurisdiction
+Acronym: JRSDTN
+Code: 103
+Attribute type: E
+1 : international
+2 : national
+3 : national sub-division
+enum end
+>
+<
+Attribute: Justification - horizontal
+Acronym: $JUSTH
+Code: 104
+Attribute type: E
+1 : centre justified
+2 : right justified
+3 : left justified
+enum end
+>
+<
+Attribute: Justification - vertical
+Acronym: $JUSTV
+Code: 105
+Attribute type: E
+1 : bottom justified
+2 : centre justified
+3 : top justified
+enum end
+>
+<
+Attribute: Lifting capacity
+Acronym: LIFCAP
+Code: 106
+Attribute type: F
+>
+<
+Attribute: Light characteristic
+Acronym: LITCHR
+Code: 107
+Attribute type: E
+1 : fixed  
+2 : flashing  
+3 : long-flashing 
+4 : quick-flashing  
+5 : very quick-flashing  
+6 : ultra quick-flashing  
+7 : isophased  
+8 : occulting  
+9 : interrupted quick-flashing  
+10 : interrupted very quick-flashing 
+11 : interrupted ultra quick-flashing  
+12 : morse  
+13 : fixed/flash  
+14 : flash/long-flash
+15 : occulting/flash
+16 : fixed/long-flash
+17 : occulting alternating
+18 : long-flash alternating
+19 : flash alternating
+20 : group alternating
+21 : 2 fixed (vertical)
+22 : 2 fixed (horizontal)
+23 : 3 fixed (vertical)
+24 : 3 fixed (horizontal)
+25 : quick-flash plus long-flash
+26 : very quick-flash plus long-flash
+27 : ultra quick-flash plus long-flash
+28 : alternating
+29 : fixed and alternating flashing
+enum end
+>
+<
+Attribute: Light visibility
+Acronym: LITVIS
+Code: 108
+Attribute type: L
+1 : high intensity  
+2 : low intensity  
+3 : faint 
+4 : intensified  
+5 : unintensified
+6 : visibility deliberately restricted  
+7 : obscured 
+8 : partially obscured
+enum end
+>
+<
+Attribute: Marks navigational - System of
+Acronym: MARSYS
+Code: 109
+Attribute type: E
+1 : IALA A  
+2 : IALA B  
+3 : modified US
+4 : old US
+5 : US intracoastal waterway
+6 : US uniform state
+7 : US western rivers
+8 : SIGNI
+9 : no system
+10 : other system
+enum end
+>
+<
+Attribute: Multiplicity of lights
+Acronym: MLTYLT
+Code: 110
+Attribute type: I
+>
+<
+Attribute: Nationality
+Acronym: NATION
+Code: 111
+Attribute type: A
+>
+<
+Attribute: Nature of construction
+Acronym: NATCON
+Code: 112
+Attribute type: L
+1 : masonry  
+2 : concreted  
+3 : loose boulders  
+4 : hard surfaced  
+5 : unsurfaced  
+6 : wooden
+7 : metal
+8 : glass reinforced plastic (GRP)
+9 : painted  
+enum end
+>
+<
+Attribute: Nature of surface
+Acronym: NATSUR
+Code: 113
+Attribute type: L
+1 : mud  
+2 : clay 
+3 : silt  
+4 : sand  
+5 : stone  
+6 : gravel  
+7 : pebbles 
+8 : cobbles  
+9 : rock  
+10 : marsh
+11 : lava
+12 : snow
+13 : ice
+14 : coral  
+15 : swamp
+16 : bog/moor
+17 : shells  
+18 : boulder
+enum end
+>
+<
+Attribute: Nature of surface - qualifying terms
+Acronym: NATQUA
+Code: 114
+Attribute type: L
+1 : fine  
+2 : medium 
+3 : coarse  
+4 : broken  
+5 : sticky  
+6 : soft  
+7 : stiff 
+8 : volcanic 
+9 : calcareous  
+10 : hard  
+enum end
+>
+<
+Attribute: Notice to Mariners date
+Acronym: NMDATE
+Code: 115
+Attribute type: A
+>
+<
+Attribute: Object name
+Acronym: OBJNAM
+Code: 116
+Attribute type: S
+>
+<
+Attribute: Orientation
+Acronym: ORIENT
+Code: 117
+Attribute type: F
+>
+<
+Attribute: Periodic date end
+Acronym: PEREND
+Code: 118
+Attribute type: A
+>
+<
+Attribute: Periodic date start
+Acronym: PERSTA
+Code: 119
+Attribute type: A
+>
+<
+Attribute: Pictorial representation
+Acronym: PICREP
+Code: 120
+Attribute type: S
+>
+<
+Attribute: Pilot district
+Acronym: PILDST
+Code: 121
+Attribute type: S
+>
+<
+Attribute: Positional accuracy units
+Acronym: PUNITS
+Code: 189
+Attribute type: E
+1 : metres
+2 : degrees of arc
+3 : millimeters
+4 : feet
+5 : cables
+enum end
+>
+<
+Attribute: Producing country
+Acronym: PRCTRY
+Code: 122
+Attribute type: A
+>
+<
+Attribute: Product
+Acronym: PRODCT
+Code: 123
+Attribute type: L
+1 : oil  
+2 : gas  
+3 : water  
+4 : stone
+5 : coal
+6 : ore
+7 : chemicals   
+8 : drinking water
+9 : milk
+10 : bauxite
+11 : coke
+12 : iron ingots
+13 : salt
+14 : sand
+15 : timber
+16 : sawdust/wood chips
+17 : scrap metal
+18 : liquified natural gas (LNG)
+19 : liquified petroleum gas (LPG)
+20 : wine
+21 : cement
+22 : grain
+enum end
+>
+<
+Attribute: Publication reference
+Acronym: PUBREF
+Code: 124
+Attribute type: S
+>
+<
+Attribute: Quality of sounding measurement
+Acronym: QUASOU
+Code: 125
+Attribute type: L
+1 : depth known
+2 : depth unknown  
+3 : doubtful sounding  
+4 : unreliable sounding  
+5 : no bottom found at value shown I 
+6 : least depth known  
+7 : least depth unknown, safe clearance at value shown  
+8 : value reported (not surveyed)  
+9 : value reported (not confirmed)  
+10 : maintained depth  
+11 : not regularly maintained
+enum end
+>
+<
+Attribute: Radar wave length
+Acronym: RADWAL
+Code: 126
+Attribute type: A
+>
+<
+Attribute: Radius
+Acronym: RADIUS
+Code: 127
+Attribute type: F
+>
+<
+Attribute: Recording date
+Acronym: RECDAT
+Code: 128
+Attribute type: A
+>
+<
+Attribute: Recording indication
+Acronym: RECIND
+Code: 129
+Attribute type: A
+>
+<
+Attribute: Reference year for magnetic variation
+Acronym: RYRMGV
+Code: 130
+Attribute type: A
+>
+<
+Attribute: Restriction
+Acronym: RESTRN
+Code: 131
+Attribute type: L
+1 : anchoring prohibited  
+2 : anchoring restricted
+3 : fishing prohibited  
+4 : fishing restricted
+5 : trawling prohibited
+6 : trawling restricted
+7 : entry prohibited  
+8 : entry restricted
+9 : dredging prohibited
+10 : dredging restricted
+11 : diving prohibited
+12 : diving restricted
+13 : no wake
+14 : area to be avoided  
+15 : construction prohibited
+16 : discharging prohibited
+17 : discharging restricted
+18 : industrial or mineral exploration/development prohibited
+19 : industrial or mineral exploration/development restricted
+20 : drilling prohibited
+21 : drilling restricted
+22 : removal of historical artifacts prohibited
+23 : cargo transhipment (lightering) prohibited
+24 : dragging prohibited
+25 : stopping prohibited
+26 : landing prohibited
+27 : speed restricted
+enum end
+>
+<
+Attribute: Scale maximum
+Acronym: SCAMAX
+Code: 132
+Attribute type: I
+>
+<
+Attribute: Scale minimum
+Acronym: SCAMIN
+Code: 133
+Attribute type: I
+>
+<
+Attribute: Scale value one
+Acronym: SCVAL1
+Code: 134
+Attribute type: I
+>
+<
+Attribute: Scale value two
+Acronym: SCVAL2
+Code: 135
+Attribute type: I
+>
+<
+Attribute: Sector limit one
+Acronym: SECTR1
+Code: 136
+Attribute type: F
+>
+<
+Attribute: Sector limit two
+Acronym: SECTR2
+Code: 137
+Attribute type: F
+>
+<
+Attribute: Shift parameters
+Acronym: SHIPAM
+Code: 138
+Attribute type: A
+>
+<
+Attribute: Signal frequency
+Acronym: SIGFRQ
+Code: 139
+Attribute type: I
+>
+<
+Attribute: Signal generation
+Acronym: SIGGEN
+Code: 140
+Attribute type: E
+1 : automatically
+2 : by wave action  
+3 : by hand
+4 : by wind
+enum end
+>
+<
+Attribute: Signal group
+Acronym: SIGGRP
+Code: 141
+Attribute type: A
+>
+<
+Attribute: Signal period
+Acronym: SIGPER
+Code: 142
+Attribute type: F
+>
+<
+Attribute: Signal sequence
+Acronym: SIGSEQ
+Code: 143
+Attribute type: A
+>
+<
+Attribute: Sounding accuracy
+Acronym: SOUACC
+Code: 144
+Attribute type: F
+>
+<
+Attribute: Sounding distance - maximum
+Acronym: SDISMX
+Code: 145
+Attribute type: I
+>
+<
+Attribute: Sounding distance - minimum
+Acronym: SDISMN
+Code: 146
+Attribute type: I
+>
+<
+Attribute: Source date
+Acronym: SORDAT
+Code: 147
+Attribute type: A
+>
+<
+Attribute: Source indication
+Acronym: SORIND
+Code: 148
+Attribute type: A
+>
+<
+Attribute: Status
+Acronym: STATUS
+Code: 149
+Attribute type: L
+1 : permanent
+2 : occasional  
+3 : recommended  
+4 : not in use  
+5 : periodic/intermittent  
+6 : reserved  
+7 : temporary  
+8 : private  
+9 : mandatory
+10 : destroyed/ruined
+11 : extinguished
+12 : illuminated
+13 : historic
+14 : public
+15 : synchronized
+16 : watched
+17 : un-watched
+18 : existence doubtful
+enum end
+>
+<
+Attribute: Survey authority
+Acronym: SURATH
+Code: 150
+Attribute type: S
+>
+<
+Attribute: Survey date - end
+Acronym: SUREND
+Code: 151
+Attribute type: A
+>
+<
+Attribute: Survey date - start
+Acronym: SURSTA
+Code: 152
+Attribute type: A
+>
+<
+Attribute: Survey type
+Acronym: SURTYP
+Code: 153
+Attribute type: L
+1 : reconnaissance/sketch survey
+2 : controlled survey
+3 : unsurveyed
+4 : examination survey
+5 : passage survey
+6 : remotely sensed
+enum end
+>
+<
+Attribute: Symbol scaling factor
+Acronym: $SCALE
+Code: 154
+Attribute type: F
+>
+<
+Attribute: Symbolization code
+Acronym: $SCODE
+Code: 155
+Attribute type: A
+>
+<
+Attribute: Technique of sounding measurement
+Acronym: TECSOU
+Code: 156
+Attribute type: L
+1 : found by echo-sounder
+2 : found by side scan sonar
+3 : found by multi-beam
+4 : found by diver
+5 : found by lead-line
+6 : swept by wire-drag  
+7 : found by laser
+8 : swept by vertical acoustic system
+9 : found by electromagnetic sensor
+10 : photogrammetry
+11 : satellite imagery
+12 : found by levelling
+13 : swept by side-scan sonar
+14 : computer generated
+enum end
+>
+<
+Attribute: Text string
+Acronym: $TXSTR
+Code: 157
+Attribute type: S
+>
+<
+Attribute: Textual description
+Acronym: TXTDSC
+Code: 158
+Attribute type: S
+>
+<
+Attribute: Tidal stream - panel values
+Acronym: TS_TSP
+Code: 159
+Attribute type: A
+>
+<
+Attribute: Tidal stream, current - time series values
+Acronym: TS_TSV
+Code: 160
+Attribute type: A
+>
+<
+Attribute: Tide - accuracy of water level
+Acronym: T_ACWL
+Code: 161
+Attribute type: E
+1 : better than 0.1 m and 10 minutes
+2 : worse than 0.1 m or 10 minutes
+enum end
+>
+<
+Attribute: Tide - high and low water values
+Acronym: T_HWLW
+Code: 162
+Attribute type: A
+>
+<
+Attribute: Tide - method of tidal prediction
+Acronym: T_MTOD
+Code: 163
+Attribute type: E
+1 : simplified harmonic method of tidal prediction
+2 : full harmonic method of tidal prediction
+3 : time and height difference non-harmonic method
+enum end
+>
+<
+Attribute: Tide - time and height differences
+Acronym: T_THDF
+Code: 164
+Attribute type: A
+>
+<
+Attribute: Tide - time series values
+Acronym: T_TSVL
+Code: 166
+Attribute type: A
+>
+<
+Attribute: Tide - value of harmonic constituents
+Acronym: T_VAHC
+Code: 167
+Attribute type: A
+>
+<
+Attribute: Tide, current - time interval of values
+Acronym: T_TINT
+Code: 165
+Attribute type: I
+>
+<
+Attribute: Time end
+Acronym: TIMEND
+Code: 168
+Attribute type: A
+>
+<
+Attribute: Time start
+Acronym: TIMSTA
+Code: 169
+Attribute type: A
+>
+<
+Attribute: Tint
+Acronym: $TINTS
+Code: 170
+Attribute type: E
+1 : darkest blue
+2 : medium blue
+3 : lightest blue
+enum end
+>
+<
+Attribute: Topmark/daymark shape
+Acronym: TOPSHP
+Code: 171
+Attribute type: E
+1 : cone, point up
+2 : cone, point down
+3 : sphere
+4 : 2 spheres
+5 : cylinder (can)
+6 : board
+7 : x-shape (St. Andrew=s cross)
+8 : upright cross (St George=s cross)
+9 : cube, point up
+10 : 2 cones, point to point
+11 : 2 cones, base to base
+12 : rhombus (diamond)
+13 : 2 cones (points upward)
+14 : 2 cones (points downward)
+15 : besom, point up (broom or perch)
+16 : besom, point down (broom or perch)
+17 : flag
+18 : sphere over rhombus
+19 : square
+20 : rectangle, horizontal
+21 : rectangle, vertical
+22 : trapezium, up
+23 : trapezium, down
+24 : triangle, point up
+25 : triangle, point down
+26 : circle
+27 : two upright crosses (one over the other)
+28 : T-shape
+29 : triangle pointing up over a circle
+30 : upright cross over a circle
+31 : rhombus over a circle
+32 : circle over a triangle pointing up
+33 : other shape (see INFORM)
+enum end
+>
+<
+Attribute: Traffic flow
+Acronym: TRAFIC
+Code: 172
+Attribute type: E
+1 : inbound
+2 : outbound
+3 : one-way
+4 : two-way
+enum end
+>
+<
+Attribute: Value of annual change in magnetic variation
+Acronym: VALACM
+Code: 173
+Attribute type: F
+>
+<
+Attribute: Value of depth contour
+Acronym: VALDCO
+Code: 174
+Attribute type: F
+>
+<
+Attribute: Value of local magnetic anomaly
+Acronym: VALLMA
+Code: 175
+Attribute type: F
+>
+<
+Attribute: Value of magnetic variation
+Acronym: VALMAG
+Code: 176
+Attribute type: F
+>
+<
+Attribute: Value of maximum range
+Acronym: VALMXR
+Code: 177
+Attribute type: F
+>
+<
+Attribute: Value of nominal range
+Acronym: VALNMR
+Code: 178
+Attribute type: F
+>
+<
+Attribute: Value of sounding
+Acronym: VALSOU
+Code: 179
+Attribute type: F
+>
+<
+Attribute: Vertical accuracy
+Acronym: VERACC
+Code: 180
+Attribute type: F
+>
+<
+Attribute: Vertical clearance
+Acronym: VERCLR
+Code: 181
+Attribute type: F
+>
+<
+Attribute: Vertical clearance, closed
+Acronym: VERCCL
+Code: 182
+Attribute type: F
+>
+<
+Attribute: Vertical clearance, open
+Acronym: VERCOP
+Code: 183
+Attribute type: F
+>
+<
+Attribute: Vertical clearance, safe
+Acronym: VERCSA
+Code: 184
+Attribute type: F
+>
+<
+Attribute: Vertical datum
+Acronym: VERDAT
+Code: 185
+Attribute type: E
+1 : Mean low water springs
+2 : Mean lower low water springs
+3 : Mean sea level
+4 : Lowest low water
+5 : Mean low water
+6 : Lowest low water springs
+7 : Approximate mean low water springs
+8 : Indian spring low water
+9 : Low water springs
+10 : Approximate lowest astronomical tide
+11 : Nearly lowest low water
+12 : Mean lower low water
+13 : Low water
+14 : Approximate mean low water
+15 : Approximate mean lower low water
+16 : Mean high water
+17 : Mean high water springs
+18 : High water
+19 : Approximate mean sea level
+20 : High water springs
+21 : Mean higher high water
+22 : Equinoctial spring low water
+23 : Lowest astronomical tide
+24 : Local datum
+25 : International Great Lakes Datum 1985
+26 : Mean water level
+27 : Lower low water large tide
+28 : Higher high water large tide
+29 : Nearly highest high water
+30 : Highest astronomical tide (HAT)
+enum end
+>
+<
+Attribute: Vertical length
+Acronym: VERLEN
+Code: 186
+Attribute type: F
+>
+<
+Attribute: Water level effect
+Acronym: WATLEV
+Code: 187
+Attribute type: E
+1 : partly submerged at high water  
+2 : always dry  
+3 : always under water/submerged  
+4 : covers and uncovers  
+5 : awash  
+6 : subject to inundation or flooding
+7 : floating
+enum end
+>
+<
+Attribute: Information in national language
+Acronym: NINFOM
+Code: 300
+Attribute type: S
+>
+<
+Attribute: Object name in national language
+Acronym: NOBJNM
+Code: 301
+Attribute type: S
+>
+<
+Attribute: Pilot district in national language
+Acronym: NPLDST
+Code: 302
+Attribute type: S
+>
+<
+Attribute: Text string in national language
+Acronym: $NTXST
+Code: 303
+Attribute type: S
+>
+<
+Attribute: Textual description in national language
+Acronym: NTXTDS
+Code: 304
+Attribute type: S
+>
+<
+Attribute: Horizontal datum
+Acronym: HORDAT
+Code: 400
+Attribute type: E
+1 : WGS 72
+2 : WGS 84
+3 : European 1950
+4 : Potsdam Datum
+5 : Adindan
+6 : Afgooye
+7 : Ain el Abd 1970
+8 : Anna 1 Astro 1965
+9 : Antigua Island Astro 1943
+10 : Arc 1950
+11 : Arc 1960
+12 : Ascension Island 1958
+13 : Astro beacon "E" 1945
+14 : Astro DOS 71/4
+15 : Astro Tern Island (FRIG) 1961
+16 : Astronomical Station 1952
+17 : Australian Geodetic 1966
+18 : Australian Geodetic 1984
+19 : Ayabelle Lighthouse
+20 : Bellevue (IGN)
+21 : Bermuda 1957
+22 : Bissau
+23 : Bogota Observatory
+24 : Bukit Rimpah
+25 : Camp Area Astro
+26 : Campo Inchauspe 1969
+27 : Canton Astro 1966
+28 : Cape
+29 : Cape Canaveral
+30 : Carthage
+31 : Chatam Island Astro 1971
+32 : Chua Astro
+33 : Corrego Alegre
+34 : Dabola
+35 : Djakarta (Batavia)
+36 : DOS 1968
+37 : Easter Island 1967
+38 : European 1979
+39 : Fort Thomas 1955
+40 : Gan 1970
+41 : Geodetic Datum 1949
+42 : Graciosa Base SW 1948
+43 : Guam 1963
+44 : Gunung Segara
+45 : GUX 1 Astro
+46 : Herat North
+47 : Hjorsey 1955
+48 : Hong Kong 1963
+49 : Hu-Tzu-Shan
+50 : Indian
+51 : Indian 1954
+52 : Indian 1975
+53 : Ireland 1965
+54 : ISTS 061 Astro 1968
+55 : ISTS 073 Astro 1969
+56 : Johnston Island 1961
+57 : Kandawala
+58 : Kerguelen Island 1949
+59 : Kertau 1948
+60 : Kusaie Astro 1951
+61 : L. C. 5 Astro 1961
+62 : Leigon
+63 : Liberia 1964
+64 : Luzon
+65 : Mahe 1971
+66 : Massawa
+67 : Merchich
+68 : Midway Astro 1961
+69 : Minna
+70 : Montserrat Island Astro 1958
+71 : M=Poraloko
+72 : Nahrwan
+73 : Naparima, BWI
+74 : North American 1927
+75 : North American 1983
+76 : Observatorio Meteorologico 1939
+77 : Old Egyptian 1907
+78 : Old Hawaiian
+79 : Oman
+80 : Ordnance Survey of Great Britain 1936
+81 : Pico de las Nieves
+82 : Pitcairn Astro 1967
+83 : Point 58
+84 : Pointe Noire 1948
+85 : Porto Santo 1936
+86 : Provisional South American 1956
+87 : Provisional South Chilean 1963 (also known as Hito XVIII 1963)
+88 : Puerto Rico
+89 : Qatar national
+90 : Qornoq
+91 : Reunion
+92 : Rome 1940
+93 : Santo (DOS) 1965
+94 : Sao Braz
+95 : Sapper Hill 1943
+96 : Schwarzeck
+97 : Selvagem Grande 1938
+98 : South American 1969
+99 : South Asia
+100 : Tananarive Observatory 1925
+101 : Timbalai 1948
+102 : Tokyo
+103 : Tristan Astro 1968
+104 : Viti Levu 1916
+105 : Wake-Eniwetok 1960
+106 : Wake Island Astro 1952
+107 : Yacare
+108 : Zanderij
+109 : American Samoa 1962
+110 : Deception Island
+111 : Indian 1960
+112 : Indonesian 1974
+113 : North Sahara 1959
+114 : Pulkovo 1942
+115 : S-42 (Pulkovo 1942)
+116 : S-JYSK
+117 : Voirol 1950
+118 : Average Terrestrial System 1977
+119 : Compensation G¨¦od¨¦sique du Qu¨¦bec 1977
+120 : Finnish (KKJ)
+121 : Ordnance Survey of Ireland
+122 : Revised Kertau
+123 : Revised Nahrwan
+124 : GGRS 76 (Greece)
+125 : Nouvelle Triangulation de France
+126 : RT 90 (Sweden)
+127 : Geocentric Datum of Australia (GDA)
+128 : BJZ54 (A954 Beijing Coordinates)
+129 : Modified BJZ54
+130 : GDZ80
+131 : Local datum
+enum end
+>
+<
+Attribute: Positional Accuracy
+Acronym: POSACC
+Code: 401
+Attribute type: F
+>
+<
+Attribute: Quality of position
+Acronym: QUAPOS
+Code: 402
+Attribute type: E
+1 : surveyed 
+2 : unsurveyed  
+3 : inadequately surveyed  
+4 : approximate  
+5 : position doubtful  
+6 : unreliable
+7 : reported (not surveyed)
+8 : reported (not confirmed)  
+9 : estimated
+10 : precisely known
+11 : calculated
+enum end
+>
+<
+Attribute: Depth Value(Added by YimaEnc)
+Acronym: DEPVAL
+Code: 1000
+Attribute type: F
+>
+<
+Attribute: Is Floating Topmark(Added by YimaEnc)
+Acronym: BFLOAT
+Code: 1001
+Attribute type: B
+>
+<
+Attribute: Is Safe contour(Added by YimaEnc)
+Acronym: BESAFE
+Code: 1002
+Attribute type: B
+>
+<
+Attribute: Contain UnderQuality edge data(Added by YimaEnc)
+Acronym: UNDQUA
+Code: 1003
+Attribute type: B
+>
+<
+Attribute: Underwater harzard is isolated danger(Added by YimaEnc)
+Acronym: BISODNG
+Code: 1004
+Attribute type: B
+>
+<
+Attribute: My Area Depth Value(Added by YimaEnc)
+Acronym: MARDPT
+Code: 1005
+Attribute type: F
+> 
+<
+Attribute: Unknown attribute(Added by YimaEnc)
+Acronym: UKNOWN
+Code: 2000
+Attribute type: B
+>
+<
+Attribute: Planned track ID(Added by YimaEnc)
+Acronym: PLTKID
+Code: 2001
+Attribute type: I
+>
+<
+Attribute: Planned track name(Added by YimaEnc)
+Acronym: PLTKNM
+Code: 2002
+Attribute type: S
+>
+<
+Attribute: Planned track create date(Added by YimaEnc)
+Acronym: PLTKCD
+Code: 2003
+Attribute type: S
+>
+<
+Attribute: Planned track update date(Added by YimaEnc)
+Acronym: PLTKUD
+Code: 2004
+Attribute type: S
+> 
+<
+Attribute: Past track start date(Added by YimaEnc)
+Acronym: PSTKSD
+Code: 2005
+Attribute type: S
+>
+<
+Attribute: Past track end date(Added by YimaEnc)
+Acronym: PSTKED
+Code: 2006
+Attribute type: S
+>
+<
+Attribute: Ship code(Added by YimaEnc)
+Acronym: SHPCOD
+Code: 2007
+Attribute type: S
+>
+<
+Attribute: Ship name(Added by YimaEnc)
+Acronym: SHPNAM
+Code: 2008
+Attribute type: S
+> 
+<
+Attribute: Ship length(Added by YimaEnc)
+Acronym: SHPLEN
+Code: 2009
+Attribute type: I
+>
+<
+Attribute: Ship width(Added by YimaEnc)
+Acronym: SHPWTH
+Code: 2010
+Attribute type: I
+>
+<
+Attribute: Ship weight(Added by YimaEnc)
+Acronym: SHPWGT
+Code: 2011
+Attribute type: I
+>
+END
+
+	

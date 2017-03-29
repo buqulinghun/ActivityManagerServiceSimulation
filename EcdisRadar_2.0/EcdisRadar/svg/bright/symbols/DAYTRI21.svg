@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="5.99722mm" height="8.46667mm"
+ viewBox="0 0 17 24"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>DAYTRI21</title>
+<desc>triangular daymark, point up, paper chart</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" vector-effect="non-scaling-stroke" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#c64dbb" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M-0.296,12.824 L15.704,12.824 L7.704,-0.176 L-0.296,12.824"/>
+<path fill-rule="evenodd" d="M7.704,12.824 L7.704,19.824"/>
+<path fill-rule="evenodd" d="M9.704,21.824 C9.704,22.9286 8.80857,23.824 7.704,23.824 C6.59943,23.824 5.704,22.9286 5.704,21.824 C5.704,20.7194 6.59943,19.824 7.704,19.824 C8.80857,19.824 9.704,20.7194 9.704,21.824 "/>
+<path fill-rule="evenodd" d="M3.704,20.824 L5.704,20.824"/>
+<path fill-rule="evenodd" d="M9.704,20.824 L12.704,20.824"/>
+</g>
+</g>
+</svg>

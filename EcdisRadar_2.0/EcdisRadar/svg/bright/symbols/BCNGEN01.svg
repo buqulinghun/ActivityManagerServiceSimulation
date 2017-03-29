@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="3.88056mm" height="6.35mm"
+ viewBox="0 0 11 18"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>BCNGEN01</title>
+<desc>beacon in general, paper-chart</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" vector-effect="non-scaling-stroke" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<path fill-rule="evenodd" d="M2.44,14.04"/>
+<g fill="#000000" fill-opacity="1" stroke="#070707" stroke-opacity="1" vector-effect="non-scaling-stroke" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d=""/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" vector-effect="non-scaling-stroke" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#070707" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M2.44,14.04 L3.44,13.04 L2.44,14.04 L2.44,15.04 M7.44,15.04 C7.44,16.1446 6.54457,17.04 5.44,17.04 C4.33543,17.04 3.44,16.1446 3.44,15.04 C3.44,13.9354 4.33543,13.04 5.44,13.04 C6.54457,13.04 7.44,13.9354 7.44,15.04 M0.44,15.04 L2.44,15.04 M7.44,15.04 L9.44,15.04"/>
+</g>
+</g>
+</svg>

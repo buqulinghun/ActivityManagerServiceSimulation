@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="8.46667mm" height="5.64444mm"
+ viewBox="0 0 24 16"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>CGUSTA02</title>
+<desc>coastguard station</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" vector-effect="non-scaling-stroke" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#937427" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="#937427" fill-opacity="1" stroke="#937427" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d=""/>
+</g>
+
+<g fill="none" stroke="#937427" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="#937427" fill-opacity="1" stroke="#937427" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M1.232,14.656"/>
+</g>
+
+<g fill="none" stroke="#937427" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M1.232,14.656"/>
+</g>
+
+<g fill="none" stroke="#d8f4e1" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="#d8f4e1" fill-opacity="1" stroke="#d8f4e1" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M3.232,-0.344 L22.232,-0.344 L22.232,11.656 L3.232,11.656 L3.232,-0.344"/>
+</g>
+
+<g fill="none" stroke="#d8f4e1" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M3.232,-0.344"/>
+</g>
+
+<g fill="none" stroke="#d4b1dd" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M3.232,-0.344 L22.232,-0.344 L22.232,11.656 L3.232,11.656 L3.232,-0.344"/>
+<path fill-rule="evenodd" d="M10.232,3.656 L9.232,3.656 L7.232,3.656 L6.232,4.656"/>
+<path fill-rule="evenodd" d="M6.232,7.656 L7.232,9.656 L9.232,9.656 L10.232,8.656"/>
+<path fill-rule="evenodd" d="M18.232,3.656 L17.232,3.656 L15.232,3.656 L14.232,4.656 L14.232,7.656 L15.232,9.656 L17.232,9.656 L18.232,8.656 L18.232,6.656 L17.232,6.656"/>
+<path fill-rule="evenodd" d="M6.232,4.656 L6.232,7.656"/>
+</g>
+</g>
+</svg>

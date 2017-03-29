@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="14.1111mm" height="11.9944mm"
+ viewBox="0 0 40 34"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>RCLDEF01</title>
+<desc>radio calling-in point whose direction is not known</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" vector-effect="non-scaling-stroke" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#c64dbb" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M0.032,13.248 L1.032,12.248 L1.032,11.248 L2.032,11.248 L3.032,10.248 L4.032,10.248 L5.032,11.248 L6.032,12.248 L7.032,13.248 L7.032,14.248 L7.032,15.248 L6.032,15.248 L6.032,16.248 L5.032,17.248 L4.032,18.248 L4.032,19.248 L3.032,20.248 L3.032,21.248 L4.032,22.248"/>
+</g>
+
+<g fill="none" stroke="#c64dbb" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M3.032,24.248 L5.032,24.248"/>
+</g>
+
+<g fill="none" stroke="#c64dbb" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M32.032,13.248 L32.032,12.248 L33.032,12.248 L33.032,11.248 L34.032,11.248 L35.032,10.248 L36.032,11.248 L37.032,11.248 L38.032,12.248 L38.032,13.248 L39.032,13.248 L39.032,14.248 L38.032,15.248 L37.032,16.248 L37.032,17.248 L36.032,18.248 L35.032,19.248 L35.032,20.248 L35.032,21.248 L35.032,22.248"/>
+</g>
+
+<g fill="none" stroke="#c64dbb" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M35.032,24.248 L36.032,24.248"/>
+</g>
+
+<g fill="none" stroke="#c64dbb" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M26.032,17.248 C26.032,20.5617 23.3457,23.248 20.032,23.248 C16.7183,23.248 14.032,20.5617 14.032,17.248 C14.032,13.9343 16.7183,11.248 20.032,11.248 C23.3457,11.248 26.032,13.9343 26.032,17.248 "/>
+<path fill-rule="evenodd" d="M14.032,11.248 L20.032,0.248 L25.032,11.248"/>
+<path fill-rule="evenodd" d="M25.032,22.248 L19.032,33.248 L14.032,22.248"/>
+</g>
+</g>
+</svg>

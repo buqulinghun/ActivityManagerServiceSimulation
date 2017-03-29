@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="8.46667mm" height="3.88056mm"
+ viewBox="0 0 24 11"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>ROLROL01</title>
+<desc>RoRo terminal</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" vector-effect="non-scaling-stroke" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#070707" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M0.64,0.376 L0.64,9.376"/>
+<path fill-rule="evenodd" d="M12.64,0.376 L12.64,9.376"/>
+<path fill-rule="evenodd" d="M0.64,0.376 L3.64,0.376"/>
+<path fill-rule="evenodd" d="M0.64,5.376 L3.64,5.376"/>
+<path fill-rule="evenodd" d="M12.64,0.376 L15.64,0.376"/>
+<path fill-rule="evenodd" d="M12.64,5.376 L15.64,5.376"/>
+<path fill-rule="evenodd" d="M3.64,5.376 L4.64,9.376"/>
+<path fill-rule="evenodd" d="M15.64,5.376 L17.64,9.376"/>
+<path fill-rule="evenodd" d="M17.64,4.376 L17.64,1.376"/>
+<path fill-rule="evenodd" d="M4.64,4.376 L4.64,1.376"/>
+<path fill-rule="evenodd" d="M3.64,0.376 L4.64,1.376"/>
+<path fill-rule="evenodd" d="M3.64,5.376 L4.64,4.376"/>
+<path fill-rule="evenodd" d="M15.64,5.376 L17.64,4.376"/>
+<path fill-rule="evenodd" d="M15.64,0.376 L17.64,1.376"/>
+<path fill-rule="evenodd" d="M10.64,7.376 C10.64,8.48057 9.74457,9.376 8.64,9.376 C7.53543,9.376 6.64,8.48057 6.64,7.376 C6.64,6.27143 7.53543,5.376 8.64,5.376 C9.74457,5.376 10.64,6.27143 10.64,7.376 "/>
+<path fill-rule="evenodd" d="M22.64,7.376 C22.64,8.48057 21.7446,9.376 20.64,9.376 C19.5354,9.376 18.64,8.48057 18.64,7.376 C18.64,6.27143 19.5354,5.376 20.64,5.376 C21.7446,5.376 22.64,6.27143 22.64,7.376 "/>
+</g>
+</g>
+</svg>

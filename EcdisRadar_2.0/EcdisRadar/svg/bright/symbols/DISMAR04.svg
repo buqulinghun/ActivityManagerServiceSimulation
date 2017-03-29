@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="6.70278mm" height="4.93889mm"
+ viewBox="0 0 19 14"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>DISMAR04</title>
+<desc>distance point with no mark</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" vector-effect="non-scaling-stroke" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#c64dbb" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M-0.16,-0.168 L-0.16,12.832"/>
+<path fill-rule="evenodd" d="M4.84,4.832 L-0.16,9.832"/>
+<path fill-rule="evenodd" d="M1.84,7.832 L4.84,12.832"/>
+<path fill-rule="evenodd" d="M7.84,4.832 L7.84,12.832"/>
+<path fill-rule="evenodd" d="M7.84,5.832 L8.84,4.832 L9.84,4.832 L10.84,4.832 L11.84,5.832 L12.84,6.832 L12.84,12.832"/>
+<path fill-rule="evenodd" d="M12.84,6.832 L13.84,4.832 L14.84,4.832 L15.84,4.832 L16.84,4.832 L17.84,6.832 L17.84,12.832"/>
+</g>
+</g>
+</svg>

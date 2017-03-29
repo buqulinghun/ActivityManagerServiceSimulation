@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="19.7556mm" height="5.29167mm"
+ viewBox="0 0 56 15"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>RECDEF51</title>
+<desc>recommended track as an area, direction not defined in data</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" vector-effect="non-scaling-stroke" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#88988b" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M0.568,7.912 L10.568,7.912"/>
+<path fill-rule="evenodd" d="M45.568,7.912 L55.568,7.912"/>
+<path fill-rule="evenodd" d="M24.568,2.912 L24.568,1.912 L25.568,1.912 L25.568,0.912 L26.568,0.912 L27.568,-0.088 L28.568,0.912 L29.568,0.912 L30.568,1.912 L31.568,1.912 L31.568,2.912 L31.568,3.912 L31.568,4.912 L30.568,4.912 L30.568,5.912 L29.568,6.912 L28.568,7.912 L27.568,8.912 L27.568,9.912 L27.568,10.912 L27.568,11.912"/>
+</g>
+
+<g fill="none" stroke="#88988b" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M27.568,13.912 L28.568,13.912"/>
+</g>
+
+<g fill="none" stroke="#88988b" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path fill-rule="evenodd" d="M21.568,12.912 L14.568,7.912 L21.568,2.912"/>
+<path fill-rule="evenodd" d="M34.568,12.912 L40.568,7.912 L34.568,2.912"/>
+</g>
+</g>
+</svg>
