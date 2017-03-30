@@ -947,14 +947,18 @@ void DataBase::openChart(const QString &filePath)
     openChart->SetupSoundObjects();
 
     mercatorProj->ChartMercatorProj(openChart);  //进行墨卡托投影进行坐标转换
-  //  qDebug()<<"wocao.....";
+
+    QTime time;
+    time.start();
 
     //存储相应的属性到数据库
-    if(!isExist(openChart))
+    //if(!isExist(openChart))
     {
         saveDspmMysql(openChart);
         saveFeaturesMysql(openChart);
     }
+
+    qDebug()<<"insert tables sucess finishing:"<<time.elapsed()/1000.0<<"s";
 
     mercatorProj->ConvertToScreen(openChart);  //得到屏幕坐标
     openChart->calculateCenter();  //计算所需区域的中心坐标
@@ -967,11 +971,7 @@ void DataBase::openChart(const QString &filePath)
 
 //存储DSPM
 void DataBase::saveDspmMysql(Chart* pChart)
-{   //先判断表存在不存在
-
-
-
-
+{
     QString featureQuery = "select * from feature";
     sqlQuery->exec(featureQuery);
     int featureStart = sqlQuery->size();
@@ -1007,12 +1007,7 @@ void DataBase::saveDspmMysql(Chart* pChart)
     qDebug()<<pChart->dspm.sounding_mult_factor;
 
 
-//    QString insertDSPMss = QString("insert into dspm values(null,%1,%2,%3,%4,%5 ,%6,%7,%8,%9,%10 ,%11,%12,%13)")
-//            .arg(pChart->dspm.coord_mult_factor,pChart->dspm.horz_gd_datum,pChart->dspm.vert_datum,
-//                 pChart->dspm.sounding_datum,pChart->dspm.comp_sod,pChart->dspm.depth_unit,
-//                 pChart->dspm.height_unit,pChart->dspm.accuracy_unit,pChart->dspm.coord_unit,pChart->dspm.sounding_mult_factor);
 
-//    qDebug()<<"test:"<<insertDSPMss;
     int interval = pChart->line_objects_map.size() + pChart->point_objects_map.size()
                         + pChart->area_objects_map.size();
 
@@ -1030,13 +1025,8 @@ void DataBase::saveDspmMysql(Chart* pChart)
     bool insertDspmRet = sqlQuery->exec();
     if(!insertDspmRet)
     {
-
-//       QSqlError DspminsertError = sqlQuery.lastError();
-      //  qDebug()<<"insertDspmError"<<sqlQuery.lastError().databaseText();
         QSqlError dspmError = sqlQuery->lastError();
         qDebug()<<"insertFeatureError:"<<dspmError.databaseText();
-
- //       qDebug()<<"insertDspmError:"<<insertDSPM;
     }
 
 
@@ -1056,8 +1046,14 @@ void DataBase::saveFeaturesMysql(Chart* pChart)
              std::vector<PointObject> :: iterator pEnd(pfm->second.end());
              for(pit = pfm->second.begin();pit != pEnd;++pit){
 
-                 SpaceObject* psb = &(*pit);
-                 saveFeaturesMysql(psb,pChart);
+ qDebug()<<"record_id:"<<pit->record_id;
+ qDebug();
+
+//                 if(pit->record_id == 50)
+//                 {
+                   SpaceObject* psb = &(*pit);
+                   saveFeaturesMysql(psb,pChart);
+//                 }
              }
          }
 
@@ -1071,6 +1067,8 @@ void DataBase::saveFeaturesMysql(Chart* pChart)
              std::vector<LineObject> :: iterator lEnd(lfm->second.end());
              for(lit = lfm->second.begin();lit != lEnd;++lit){
                //  qDebug()<<"line:"<<i++;
+ qDebug()<<"record_id:"<<lit->record_id;
+ qDebug();
                  SpaceObject* lsb = &(*lit);
                  saveFeaturesMysql(lsb,pChart);
 
@@ -1088,6 +1086,8 @@ void DataBase::saveFeaturesMysql(Chart* pChart)
              std::vector<AreaObject> :: iterator aEnd(afm->second.end());
              for(ait = afm->second.begin();ait != aEnd;++ait){
                  qDebug()<<"area:"<<i++;
+qDebug()<<"record_id:"<<ait->record_id;
+qDebug();
                  SpaceObject* asb = &(*ait);
                  saveFeaturesMysql(asb,pChart);
 
@@ -1201,6 +1201,7 @@ void DataBase::saveFeaturesMysql(SpaceObject* pso,Chart* pChart)
     sqlQuery->bindValue(15,pso->dispcategory);
     sqlQuery->bindValue(16,pso->overRadar);
 
+    qDebug()<<"feature exec:"<<insertFeature;
     bool insertFeatureRet = sqlQuery->exec();
     if(!insertFeatureRet)
     {
@@ -1221,15 +1222,6 @@ void DataBase::saveFeaturesMysql(SpaceObject* pso,Chart* pChart)
 
 
 
-
-
-/*
-    std::vector<attf_t> attfs;   //属性字段
-    std::vector<attf_t> natfs;    //国家属性字段
-    std::vector<ffpt_t> ffpts;    //特征记录到特征物标指针
-    std::vector<fspt_t> fspts;    //特征字段到空间字段指针
-
-*/
 void DataBase::saveFeatureAttfs(SpaceObject* pso,Chart* pChart)
 {
     std::vector<attf_t>::iterator att;
@@ -1242,6 +1234,9 @@ void DataBase::saveFeatureAttfs(SpaceObject* pso,Chart* pChart)
         sqlQuery->bindValue(0,pso->record_id);
         sqlQuery->bindValue(1,att->attl);
         sqlQuery->bindValue(2,QVariant(QString::fromStdString(att->atvl)));
+
+        qDebug()<<"attfs"<<attfInsert;
+        qDebug();
         bool attfInsertRet = sqlQuery->exec();      
 
         if(!attfInsertRet)
@@ -1268,6 +1263,8 @@ void DataBase::saveFeatureNatfs(SpaceObject* pso,Chart* pChart)
         sqlQuery->bindValue(0,pso->record_id);
         sqlQuery->bindValue(1,attit->attl);
         sqlQuery->bindValue(2,QVariant(QString::fromStdString(attit->atvl)));
+        qDebug()<<"attfInsert:"<<attfInsert;
+        qDebug();
         bool attfRet = sqlQuery->exec();
         if(!attfRet)
         {
@@ -1293,7 +1290,9 @@ void DataBase::saveFeatureFfpts(SpaceObject* pso,Chart* pChart)
         sqlQuery->bindValue(3,ffit->fids);
         sqlQuery->bindValue(4,ffit->rind);
         sqlQuery->bindValue(5,QVariant(QString::fromStdString(ffit->comt)));
+        qDebug()<<"ffptInsert:"<<ffptInsert;
         bool ffptInsertRet = sqlQuery->exec();
+        qDebug();
         if(!ffptInsertRet)
         {
             QSqlError error = sqlQuery->lastError();
@@ -1315,6 +1314,10 @@ void DataBase::saveFeatureFspts(SpaceObject* pso,Chart* pChart)
        sqlQuery->bindValue(3,fsit->ornt);
        sqlQuery->bindValue(4,fsit->usag);
        sqlQuery->bindValue(5,fsit->mask);
+
+       qDebug()<<"fsptInsert:"<<fsptInsert;
+       qDebug();
+
        bool fsptRet = sqlQuery->exec();
        if(!fsptRet)
        {
@@ -1339,7 +1342,6 @@ void DataBase::saveFeatureAttvs(SpaceObject *pso,const std::vector<attv_t> &attv
 
         qDebug()<<"attvsInsert:"<<attvitInsert;
         qDebug();
-
         bool attvitInsertRet = sqlQuery->exec(attvitInsert);
         if(!attvitInsertRet)
         {
@@ -1422,40 +1424,6 @@ bool DataBase::LoadChartHelper(const QString &fileName)
         return false;
      }
 
-    /*********************************************** test begin *****************************************************/
-    //海图数据的一些处理//////////////////////////////////////////////////////
-//    chart->SetupEdgeVectors();      //组合线物标
-//    chart->SetupAreaObjects();
-//    chart->SetupLineObjects();
-//    chart->SetupPointObjects();
-//    chart->SetupSoundObjects();
-
-//    mercatorProj->ChartMercatorProj(chart);  //进行墨卡托投影进行坐标转换
-//    qDebug()<<"wocao.....";
-
-//    //存储相应的属性到数据库
-//    saveDspmMysql(chart);
-//    saveFeaturesMysql(chart);
-
-    /*********************************************** test end *****************************************************/
-
-
-
-  
-    //将解析后的数据保存到SENC数据库中，如果保存成功则将该海图信息保存
-//    if(SaveChartDataBase(chart)) {
-//        //将海图信息加入数据库
-//        const quint32 time0 = time(0);
-//        addSencRecord(chart, time0);
-//        showChartSelectWindow();
-
-//        delete chart;
-//        return true;
-//    }else {
-//        qDebug() << "save chart data error! filePaths is: " << fileName;
-//        delete chart;
-//        return false;
-//    }
 }
 
 //保存一幅海图到数据库
@@ -1954,11 +1922,14 @@ void DataBase::updateSpaceFeature(SpaceObject *pso, Chart *pChart)
 //    LineObject * plb = NULL;
  //   AreaObject* pab = NULL;
 //    SoundObject* psb = NULL;
-    int spacePrim = pso->prim;
+ //   int spacePrim = pso->prim;
+    int i = 0;
+    qDebug()<<"updateSpaceFeature";
     switch(pso->prim)
     {
     case 1:
     {
+        qDebug()<<i++<<" "<<pso->prim<<"id:"<<pso->record_id<<"label:"<<pso->object_label;
         if(pso->object_label == 129)
         {
             if(SoundObject* psb = dynamic_cast<SoundObject*>(pso))
@@ -1998,6 +1969,8 @@ void DataBase::updateSpaceFeature(SpaceObject *pso, Chart *pChart)
 
                 QString updateSound = QString("update feature set attvs_start = %1,attvs_end = %2,soundPoints = %3,depth = %4  where record_id =%5").arg(QString::number(attvsStart),QString::number(attvsEnd),s2d,depths,QString::number(pso->record_id));
 
+                qDebug()<<updateSound;
+                qDebug();
                 bool updateSoundRet = sqlQuery->exec(updateSound);
                 if(!updateSoundRet)
                 {
@@ -2017,6 +1990,13 @@ void DataBase::updateSpaceFeature(SpaceObject *pso, Chart *pChart)
                 int interval = ppo->attvs.size();
                 int attvsEnd = attvsStart + interval -1 > 0 ? attvsStart + interval -1 : 0;
 
+
+                int sgSize = pChart->sg2ds.size();
+
+
+                if(ppo->index < 0 || ppo->index >= sgSize)
+                    return;
+
                 double px = pChart->sg2ds[ppo->index].long_lat[0].minutes;
                 double py = pChart->sg2ds[ppo->index].long_lat[1].minutes;
 
@@ -2026,8 +2006,8 @@ void DataBase::updateSpaceFeature(SpaceObject *pso, Chart *pChart)
                         .arg(QString::number(attvsStart),QString::number(attvsEnd),pointStr,QString::number(ppo->record_id));
 
 
-
-
+                qDebug()<<updatePoint;
+                qDebug();
                 bool updatePointRet = sqlQuery->exec(updatePoint);
                 if(!updatePointRet)
                 {
@@ -2044,101 +2024,100 @@ void DataBase::updateSpaceFeature(SpaceObject *pso, Chart *pChart)
     }
         break;
 
-//      case 2:
-//      {
-//        if(LineObject* plb = dynamic_cast<LineObject*>(pso))
-//        {
+      case 2:
+      {
+        qDebug()<<i++<<" "<<pso->prim;
+        if(LineObject* plb = dynamic_cast<LineObject*>(pso))
+        {
 
-//            QString lineString = "geomfromtext('linestring(";
-//            std::vector<int>::iterator lit;
-//            std::vector<int>::iterator lend(plb->indices.end());
-//            for(lit = plb->indices.begin();lit != lend;lit++)
-//            {
-//                double lineX = pChart->sg2ds[*lit].long_lat[0].minutes;
-//                double lineY = pChart->sg2ds[*lit].long_lat[1].minutes;
-//                lineString.append(QString("%1 %2").arg(QString::number(lineX,10,3),QString::number(lineY,10,3)));
-//                if(lit != lend - 1)
-//                {
-//                    lineString.append(",");
-//                }
-//            }
+            QString lineString = "geomfromtext('linestring(";
+            std::vector<int>::iterator lit;
+            std::vector<int>::iterator lend(plb->indices.end());
+            for(lit = plb->indices.begin();lit != lend;lit++)
+            {
+                double lineX = pChart->sg2ds[*lit].long_lat[0].minutes;
+                double lineY = pChart->sg2ds[*lit].long_lat[1].minutes;
+                lineString.append(QString("%1 %2").arg(QString::number(lineX,10,3),QString::number(lineY,10,3)));
+                if(lit != lend - 1)
+                {
+                    lineString.append(",");
+                }
+            }
 
-//            lineString.append(QString(")')"));
+            lineString.append(QString(")')"));
 
-//            QString updateLine = QString("update feature set line = %1 where record_id = %2").arg(lineString,QString::number(plb->record_id));
+            QString updateLine = QString("update feature set line = %1 where record_id = %2").arg(lineString,QString::number(plb->record_id));
 
-//          //  int strLen = lineString.length();
+          //  int strLen = lineString.length();
 
-//            qDebug()<<lineString;
-//            qDebug()<<updateLine;
-//            bool updateLineRet = sqlQuery->exec(updateLine);
-//            if(!updateLineRet)
-//            {
-//              QSqlError lastError = sqlQuery->lastError();
-//              qDebug()<<"updateLineRet:"<<lastError.databaseText();
-//            }
-//        }
-//      }
+            qDebug()<<lineString;
+            qDebug()<<updateLine;
+            bool updateLineRet = sqlQuery->exec(updateLine);
+            if(!updateLineRet)
+            {
+              QSqlError lastError = sqlQuery->lastError();
+              qDebug()<<"updateLineRet:"<<lastError.databaseText();
+            }
+        }
+      }
 
-//        break;
+        break;
 
-//    case 3:
-//    {
-//     if(AreaObject* pab = dynamic_cast<AreaObject*>(pso))
-//      {  //insert into test6(id,pgns) values(7,geometryFromText('multipolygon(((3 0,4 0,4 1,3 1,3 0)),((0 0,1 0,1 1,0 1,0 0)))'));
+    case 3:
+    {
+     qDebug()<<i++<<" "<<pso->prim;
+     if(AreaObject* pab = dynamic_cast<AreaObject*>(pso))
+      {  //insert into test6(id,pgns) values(7,geometryFromText('multipolygon(((3 0,4 0,4 1,3 1,3 0)),((0 0,1 0,1 1,0 1,0 0)))'));
 
-//          QString pgnString = QString("geomfromtext('multipolygon(");
-//          std::vector<std::vector<int> >:: iterator ait;
-//          std::vector<std::vector<int> >:: iterator aend = pab->contours.end();
+          QString pgnString = QString("geomfromtext('multipolygon(");
+          std::vector<std::vector<int> >:: iterator ait;
+          std::vector<std::vector<int> >:: iterator aend = pab->contours.end();
 
-//          pgnString.append("((");
-//          for(ait = pab->contours.begin();ait != aend;ait++)
-//          {
-//            std::vector<int> ::iterator vit;
-//            std::vector<int> ::iterator vend = ait->end();
+          pgnString.append("((");
+          for(ait = pab->contours.begin();ait != aend;ait++)
+          {
+            std::vector<int> ::iterator vit;
+            std::vector<int> ::iterator vend = ait->end();
 
 
-//            for(vit = ait->begin();vit != vend;vit++)
-//            {
-//                double vx = pChart->sg2ds[*vit].long_lat[0].minutes;
-//                double vy = pChart->sg2ds[*vit].long_lat[1].minutes;
-//                pgnString.append(QString("%1 %2").arg(QString::number(vx,10,3),QString::number(vy,10,3)));
-//       //         qDebug()<<"pngString"<<pgnString;
-//                if(vit != vend -1)
-//                {
-//                    pgnString.append(",");
-//                }
-//            }
+            for(vit = ait->begin();vit != vend;vit++)
+            {
+                double vx = pChart->sg2ds[*vit].long_lat[0].minutes;
+                double vy = pChart->sg2ds[*vit].long_lat[1].minutes;
+                pgnString.append(QString("%1 %2").arg(QString::number(vx,10,3),QString::number(vy,10,3)));
+       //         qDebug()<<"pngString"<<pgnString;
+                if(vit != vend -1)
+                {
+                    pgnString.append(",");
+                }
+            }
 
-//            pgnString.append("))");
-//            if(ait != aend -1)
-//            {
-//                pgnString.append(",");
-//            }
-//          }
+            pgnString.append("))");
+            if(ait != aend -1)
+            {
+                pgnString.append(",");
+            }
+          }
 
-//          pgnString.append(")')");
+          pgnString.append(")')");
 
-//          QString updatePng = QString("update feature set pgn = %1 where record_id = %2").arg(pgnString,QString::number(pab->record_id));
-//          qDebug()<<updatePng;
-//          qDebug();
+          QString updatePng = QString("update feature set pgn = %1 where record_id = %2").arg(pgnString,QString::number(pab->record_id));
+          qDebug()<<updatePng;
+          qDebug();
 
-//          bool updatePngRet = sqlQuery->exec(updatePng);
-//          if(!updatePngRet)
-//          {
-//              QSqlError lastError = sqlQuery->lastError();
-//              qDebug()<<"updatePngRet:"<<lastError.databaseText();
-//          }
+          bool updatePngRet = sqlQuery->exec(updatePng);
+          if(!updatePngRet)
+          {
+              QSqlError lastError = sqlQuery->lastError();
+              qDebug()<<"updatePngRet:"<<lastError.databaseText();
+          }
 
-//      }
-//    }
-//      break;
+      }
+    }
+      break;
     }//end switch
 
-    //存储其他属性值
-//    saveFeatureNatfs(pso,pChart);
-//    saveFeatureFfpts(pso,pChart);
-//    saveFeatureFspts(pso,pChart);
+
 }
 
 
